@@ -1,0 +1,1037 @@
+assay_component_name	technological_target_type_sub	chnm	conc	count(*)
+CEETOX_H295R_11DCORT	11-Deoxycortisol	(+/-)-cis-Permethrin	0.411522634	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	(+/-)-cis-Permethrin	1.234567901	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	(+/-)-cis-Permethrin	3.703666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	(+/-)-cis-Permethrin	11.111	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	(+/-)-cis-Permethrin	33.33333333	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	(+/-)-cis-Permethrin	100	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1-(2-Chlorophenyl)-N-methyl-N-(1-methylpropyl)-3-isoquinolinecarboxamide	0.052263374	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1-(2-Chlorophenyl)-N-methyl-N-(1-methylpropyl)-3-isoquinolinecarboxamide	0.156790123	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1-(2-Chlorophenyl)-N-methyl-N-(1-methylpropyl)-3-isoquinolinecarboxamide	0.47037037	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1-(2-Chlorophenyl)-N-methyl-N-(1-methylpropyl)-3-isoquinolinecarboxamide	1.411111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1-(2-Chlorophenyl)-N-methyl-N-(1-methylpropyl)-3-isoquinolinecarboxamide	4.233333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1-(2-Chlorophenyl)-N-methyl-N-(1-methylpropyl)-3-isoquinolinecarboxamide	12.7	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,​2-​Benzenediol	0.041333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,​2-​Benzenediol	0.123666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,​2-​Benzenediol	0.370666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,​2-​Benzenediol	1.112333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,​2-​Benzenediol	3.336666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,​2-​Benzenediol	10.01	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,3-Phenylenedi(4-aminophenyl ether)	0.041	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,3-Phenylenedi(4-aminophenyl ether)	0.123333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,3-Phenylenedi(4-aminophenyl ether)	0.370333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,3-Phenylenedi(4-aminophenyl ether)	1.111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,3-Phenylenedi(4-aminophenyl ether)	3.333333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,3-Phenylenedi(4-aminophenyl ether)	10	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,4-Benzenediamine	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,4-Benzenediamine	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,4-Benzenediamine	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,4-Benzenediamine	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,4-Benzenediamine	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,4-Benzenediamine	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,4-Bis(butylamino)anthracene-9,10-dione	0.020576132	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,4-Bis(butylamino)anthracene-9,10-dione	0.061666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,4-Bis(butylamino)anthracene-9,10-dione	0.185185185	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,4-Bis(butylamino)anthracene-9,10-dione	0.555555556	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,4-Bis(butylamino)anthracene-9,10-dione	1.666666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,4-Bis(butylamino)anthracene-9,10-dione	5	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,4-Diaminoanthraquinone	0.205761317	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,4-Diaminoanthraquinone	0.617283951	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,4-Diaminoanthraquinone	1.851851852	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,4-Diaminoanthraquinone	5.555555556	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,4-Diaminoanthraquinone	16.66666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,4-Diaminoanthraquinone	50	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,4-Dihydroxy-2-naphthoic acid	0.004115226	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,4-Dihydroxy-2-naphthoic acid	0.012345679	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,4-Dihydroxy-2-naphthoic acid	0.037037037	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,4-Dihydroxy-2-naphthoic acid	0.111111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,4-Dihydroxy-2-naphthoic acid	0.333333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,4-Dihydroxy-2-naphthoic acid	1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,5-Naphthalenediamine	0.041111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,5-Naphthalenediamine	0.123333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,5-Naphthalenediamine	0.37	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,5-Naphthalenediamine	1.11	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,5-Naphthalenediamine	3.33	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,5-Naphthalenediamine	9.99	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,6-Hexanediol diacrylate	0.082304527	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,6-Hexanediol diacrylate	0.24691358	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,6-Hexanediol diacrylate	0.740666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,6-Hexanediol diacrylate	2.222222222	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,6-Hexanediol diacrylate	6.666666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	1,6-Hexanediol diacrylate	20	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	17-Methyltestosterone	0.090534979	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	17-Methyltestosterone	0.271604938	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	17-Methyltestosterone	0.814814815	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	17-Methyltestosterone	2.444444444	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	17-Methyltestosterone	7.333333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	17-Methyltestosterone	22	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-(1-Chlorocyclopropyl)-1-(2-chlorophenyl)-3-(1H-1,2,4-triazol-1-yl)-2-propanol	0.082304527	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-(1-Chlorocyclopropyl)-1-(2-chlorophenyl)-3-(1H-1,2,4-triazol-1-yl)-2-propanol	0.24691358	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-(1-Chlorocyclopropyl)-1-(2-chlorophenyl)-3-(1H-1,2,4-triazol-1-yl)-2-propanol	0.740666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-(1-Chlorocyclopropyl)-1-(2-chlorophenyl)-3-(1H-1,2,4-triazol-1-yl)-2-propanol	2.222222222	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-(1-Chlorocyclopropyl)-1-(2-chlorophenyl)-3-(1H-1,2,4-triazol-1-yl)-2-propanol	6.666666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-(1-Chlorocyclopropyl)-1-(2-chlorophenyl)-3-(1H-1,2,4-triazol-1-yl)-2-propanol	20	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Aminoanthraquinone	0.082304527	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Aminoanthraquinone	0.24691358	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Aminoanthraquinone	0.740740741	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Aminoanthraquinone	2.222222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Aminoanthraquinone	6.666666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Aminoanthraquinone	20	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Ethoxy-5-(1-propenyl)phenol	0.411522634	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Ethoxy-5-(1-propenyl)phenol	1.234567901	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Ethoxy-5-(1-propenyl)phenol	3.703666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Ethoxy-5-(1-propenyl)phenol	11.111	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Ethoxy-5-(1-propenyl)phenol	33.33333333	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Ethoxy-5-(1-propenyl)phenol	100	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Hydroxybenzonitrile	0.411666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Hydroxybenzonitrile	1.234666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Hydroxybenzonitrile	3.703666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Hydroxybenzonitrile	11.111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Hydroxybenzonitrile	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Hydroxybenzonitrile	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Hydroxyethyl acrylate	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Hydroxyethyl acrylate	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Hydroxyethyl acrylate	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Hydroxyethyl acrylate	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Hydroxyethyl acrylate	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Hydroxyethyl acrylate	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Methoxy-4-nitroaniline	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Methoxy-4-nitroaniline	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Methoxy-4-nitroaniline	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Methoxy-4-nitroaniline	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Methoxy-4-nitroaniline	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Methoxy-4-nitroaniline	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Methoxy-5-methylaniline	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Methoxy-5-methylaniline	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Methoxy-5-methylaniline	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Methoxy-5-methylaniline	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Methoxy-5-methylaniline	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Methoxy-5-methylaniline	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Naphthylamine	0.411111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Naphthylamine	1.233333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Naphthylamine	3.7	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Naphthylamine	11.1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Naphthylamine	33.3	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2-Naphthylamine	99.9	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,2-Dibromo-3-nitrilopropionamide	0.411934156	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,2-Dibromo-3-nitrilopropionamide	1.235802469	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,2-Dibromo-3-nitrilopropionamide	3.707407407	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,2-Dibromo-3-nitrilopropionamide	11.12222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,2-Dibromo-3-nitrilopropionamide	33.36666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,2-Dibromo-3-nitrilopropionamide	100.1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,2'-Dibenzoylaminodiphenyl disulfide	0.082304527	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,2'-Dibenzoylaminodiphenyl disulfide	0.24691358	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,2'-Dibenzoylaminodiphenyl disulfide	0.740666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,2'-Dibenzoylaminodiphenyl disulfide	2.222222222	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,2'-Dibenzoylaminodiphenyl disulfide	6.666666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,2'-Dibenzoylaminodiphenyl disulfide	20	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,3-Diaminotoluene	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,3-Diaminotoluene	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,3-Diaminotoluene	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,3-Diaminotoluene	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,3-Diaminotoluene	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,3-Diaminotoluene	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,3-Dinitrotoluene	0.058847737	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,3-Dinitrotoluene	0.17654321	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,3-Dinitrotoluene	0.52962963	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,3-Dinitrotoluene	1.588888889	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,3-Dinitrotoluene	4.766666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,3-Dinitrotoluene	14.3	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,4-Dimethylphenol	0.411111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,4-Dimethylphenol	1.233333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,4-Dimethylphenol	3.7	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,4-Dimethylphenol	11.1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,4-Dimethylphenol	33.3	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,4-Dimethylphenol	99.9	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,4,6-Tribromophenol	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,4,6-Tribromophenol	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,4,6-Tribromophenol	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,4,6-Tribromophenol	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,4,6-Tribromophenol	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,4,6-Tribromophenol	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,4,6-Trichlorophenol	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,4,6-Trichlorophenol	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,4,6-Trichlorophenol	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,4,6-Trichlorophenol	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,4,6-Trichlorophenol	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,4,6-Tris(allyloxy)-1,3,5-triazine	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,4,6-Tris(allyloxy)-1,3,5-triazine	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,4,6-Tris(allyloxy)-1,3,5-triazine	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,4,6-Tris(allyloxy)-1,3,5-triazine	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,4,6-Tris(allyloxy)-1,3,5-triazine	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,4,6-Tris(allyloxy)-1,3,5-triazine	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,5-Dichlorophenol	0.411666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,5-Dichlorophenol	1.234666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,5-Dichlorophenol	3.703666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,5-Dichlorophenol	11.111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,5-Dichlorophenol	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	2,5-Dichlorophenol	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3-Hydroxyfluorene	0.411934156	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3-Hydroxyfluorene	1.235802469	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3-Hydroxyfluorene	3.707407407	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3-Hydroxyfluorene	11.12222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3-Hydroxyfluorene	33.36666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3-Hydroxyfluorene	100.1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3-Isopropylphenol	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3-Isopropylphenol	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3-Isopropylphenol	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3-Isopropylphenol	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3-Isopropylphenol	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3-Isopropylphenol	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3-Phenylphenol	0.082304527	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3-Phenylphenol	0.24691358	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3-Phenylphenol	0.740666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3-Phenylphenol	2.222222222	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3-Phenylphenol	6.666666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3-Phenylphenol	20	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3-tert-Butylphenol	0.411666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3-tert-Butylphenol	1.234666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3-tert-Butylphenol	3.703666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3-tert-Butylphenol	11.111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3-tert-Butylphenol	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3-tert-Butylphenol	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3'-Dimethoxybenzidine	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3'-Dimethoxybenzidine	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3'-Dimethoxybenzidine	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3'-Dimethoxybenzidine	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3'-Dimethoxybenzidine	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3'-Dimethoxybenzidine	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3'-Dimethoxybenzidine dihydrochloride	0.082304527	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3'-Dimethoxybenzidine dihydrochloride	0.24691358	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3'-Dimethoxybenzidine dihydrochloride	0.740740741	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3'-Dimethoxybenzidine dihydrochloride	2.222222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3'-Dimethoxybenzidine dihydrochloride	6.666666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3'-Dimethoxybenzidine dihydrochloride	20	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3'-Dimethylbenzidine	0.411111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3'-Dimethylbenzidine	1.233333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3'-Dimethylbenzidine	3.7	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3'-Dimethylbenzidine	11.1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3'-Dimethylbenzidine	33.3	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3'-Dimethylbenzidine	99.9	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3'-Dimethylbenzidine dihydrochloride	0.082304527	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3'-Dimethylbenzidine dihydrochloride	0.24691358	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3'-Dimethylbenzidine dihydrochloride	0.740740741	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3'-Dimethylbenzidine dihydrochloride	2.222222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3'-Dimethylbenzidine dihydrochloride	6.666666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3'-Dimethylbenzidine dihydrochloride	20	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3',5,5'-Tetrabromobisphenol A	0.041193416	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3',5,5'-Tetrabromobisphenol A	0.123580247	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3',5,5'-Tetrabromobisphenol A	0.370740741	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3',5,5'-Tetrabromobisphenol A	1.112222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3',5,5'-Tetrabromobisphenol A	3.336666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,3',5,5'-Tetrabromobisphenol A	10.01	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,4-Diaminotoluene	0.041111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,4-Diaminotoluene	0.123333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,4-Diaminotoluene	0.37	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,4-Diaminotoluene	1.11	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,4-Diaminotoluene	3.33	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,4-Diaminotoluene	9.99	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,4-Dichloroaniline	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,4-Dichloroaniline	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,4-Dichloroaniline	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,4-Dichloroaniline	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,4-Dichloroaniline	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,4-Dichloroaniline	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,4-Dinitrotoluene	0.082304527	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,4-Dinitrotoluene	0.24691358	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,4-Dinitrotoluene	0.740666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,4-Dinitrotoluene	2.222222222	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,4-Dinitrotoluene	6.666666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	3,4-Dinitrotoluene	20	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-(2-Phenylpropan-2-yl)-N-[4-(2-phenylpropan-2-yl)phenyl]aniline	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-(2-Phenylpropan-2-yl)-N-[4-(2-phenylpropan-2-yl)phenyl]aniline	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-(2-Phenylpropan-2-yl)-N-[4-(2-phenylpropan-2-yl)phenyl]aniline	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-(2-Phenylpropan-2-yl)-N-[4-(2-phenylpropan-2-yl)phenyl]aniline	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-(2-Phenylpropan-2-yl)-N-[4-(2-phenylpropan-2-yl)phenyl]aniline	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-(2-Phenylpropan-2-yl)-N-[4-(2-phenylpropan-2-yl)phenyl]aniline	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-(Butan-2-yl)phenol	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-(Butan-2-yl)phenol	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-(Butan-2-yl)phenol	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-(Butan-2-yl)phenol	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-(Butan-2-yl)phenol	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-(Butan-2-yl)phenol	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Androstene-3,17-dione	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Androstene-3,17-dione	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Androstene-3,17-dione	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Androstene-3,17-dione	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Androstene-3,17-dione	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Androstene-3,17-dione	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Chloro-1,2-diaminobenzene	0.041193416	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Chloro-1,2-diaminobenzene	0.123580247	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Chloro-1,2-diaminobenzene	0.370740741	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Chloro-1,2-diaminobenzene	1.112222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Chloro-1,2-diaminobenzene	3.336666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Chloro-1,2-diaminobenzene	10.01	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Chloro-2-methylphenol	0.411666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Chloro-2-methylphenol	1.234666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Chloro-2-methylphenol	3.703666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Chloro-2-methylphenol	11.111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Chloro-2-methylphenol	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Chloro-2-methylphenol	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Chloro-3-methylphenol	0.412	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Chloro-3-methylphenol	1.235666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Chloro-3-methylphenol	3.707333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Chloro-3-methylphenol	11.12233333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Chloro-3-methylphenol	33.36666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Chloro-3-methylphenol	100.1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Chloroaniline	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Chloroaniline	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Chloroaniline	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Chloroaniline	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Chloroaniline	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Chloroaniline	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Fluoro-3-nitroaniline	0.411522634	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Fluoro-3-nitroaniline	1.234567901	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Fluoro-3-nitroaniline	3.703666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Fluoro-3-nitroaniline	11.111	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Fluoro-3-nitroaniline	33.33333333	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Fluoro-3-nitroaniline	100	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Iodophenol	0.411522634	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Iodophenol	1.234567901	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Iodophenol	3.703666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Iodophenol	11.111	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Iodophenol	33.33333333	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Iodophenol	100	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Nitrophenol	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Nitrophenol	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Nitrophenol	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Nitrophenol	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Nitrophenol	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4-Nitrophenol	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Diamino-3,3'-dimethyldiphenylmethane	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Diamino-3,3'-dimethyldiphenylmethane	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Diamino-3,3'-dimethyldiphenylmethane	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Diamino-3,3'-dimethyldiphenylmethane	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Diamino-3,3'-dimethyldiphenylmethane	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Diamino-3,3'-dimethyldiphenylmethane	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Diaminobiphenyl methane	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Diaminobiphenyl methane	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Diaminobiphenyl methane	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Diaminobiphenyl methane	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Diaminobiphenyl methane	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Diaminobiphenyl methane	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Methylenebis(N,N-dimethylaniline)	0.123333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Methylenebis(N,N-dimethylaniline)	0.37	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Methylenebis(N,N-dimethylaniline)	1.11	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Methylenebis(N,N-dimethylaniline)	3.33	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Methylenebis(N,N-dimethylaniline)	9.99	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Sulfonylbis[2-(prop-2-en-1-yl)phenol]	0.082304527	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Sulfonylbis[2-(prop-2-en-1-yl)phenol]	0.24691358	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Sulfonylbis[2-(prop-2-en-1-yl)phenol]	0.740740741	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Sulfonylbis[2-(prop-2-en-1-yl)phenol]	2.222222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Sulfonylbis[2-(prop-2-en-1-yl)phenol]	6.666666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Sulfonylbis[2-(prop-2-en-1-yl)phenol]	20	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Sulfonyldiphenol	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Sulfonyldiphenol	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Sulfonyldiphenol	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Sulfonyldiphenol	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Sulfonyldiphenol	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	4,4'-Sulfonyldiphenol	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-(2-Chloro-4-(trifluoromethyl)phenoxy)-2-nitrobenzoic acid	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-(2-Chloro-4-(trifluoromethyl)phenoxy)-2-nitrobenzoic acid	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-(2-Chloro-4-(trifluoromethyl)phenoxy)-2-nitrobenzoic acid	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-(2-Chloro-4-(trifluoromethyl)phenoxy)-2-nitrobenzoic acid	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-(2-Chloro-4-(trifluoromethyl)phenoxy)-2-nitrobenzoic acid	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-(2-Chloro-4-(trifluoromethyl)phenoxy)-2-nitrobenzoic acid	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-Amino-2-methylphenol	0.411111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-Amino-2-methylphenol	1.233333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-Amino-2-methylphenol	3.7	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-Amino-2-methylphenol	11.1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-Amino-2-methylphenol	33.3	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-Amino-2-methylphenol	99.9	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-Heptyldihydro-2(3H)-furanone	0.411111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-Heptyldihydro-2(3H)-furanone	1.233333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-Heptyldihydro-2(3H)-furanone	3.7	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-Heptyldihydro-2(3H)-furanone	11.1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-Heptyldihydro-2(3H)-furanone	33.3	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-Heptyldihydro-2(3H)-furanone	99.9	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-Nitro-o-anisidine	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-Nitro-o-anisidine	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-Nitro-o-anisidine	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-Nitro-o-anisidine	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-Nitro-o-anisidine	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-Nitro-o-anisidine	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-Nitro-o-toluidine	0.411934156	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-Nitro-o-toluidine	1.235802469	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-Nitro-o-toluidine	3.707407407	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-Nitro-o-toluidine	11.12222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-Nitro-o-toluidine	33.36666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5-Nitro-o-toluidine	100.1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5alpha-Dihydrotestosterone	0.082304527	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5alpha-Dihydrotestosterone	0.24691358	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5alpha-Dihydrotestosterone	0.740740741	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5alpha-Dihydrotestosterone	2.222222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5alpha-Dihydrotestosterone	6.666666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	5alpha-Dihydrotestosterone	20	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	6-Methoxy-2-benzothiazolamine	0.411522634	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	6-Methoxy-2-benzothiazolamine	1.234567901	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	6-Methoxy-2-benzothiazolamine	3.703666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	6-Methoxy-2-benzothiazolamine	11.111	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	6-Methoxy-2-benzothiazolamine	33.33333333	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	6-Methoxy-2-benzothiazolamine	100	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Acid Orange 156	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Acid Orange 156	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Acid Orange 156	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Acid Orange 156	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Acid Orange 156	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Acid Orange 156	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	all-trans-Retinoic acid	0.041193416	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	all-trans-Retinoic acid	0.123580247	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	all-trans-Retinoic acid	0.370740741	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	all-trans-Retinoic acid	1.112222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	all-trans-Retinoic acid	3.336666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	all-trans-Retinoic acid	10.01	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ametryn	0.411522634	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ametryn	1.234567901	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ametryn	3.703703704	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ametryn	11.11111111	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ametryn	33.33333333	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ametryn	100	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Androsterone	0.041	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Androsterone	0.123333333	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Androsterone	0.370333333	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Androsterone	1.111	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Androsterone	3.333333333	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Androsterone	10	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Anilazine	0.041152263	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Anilazine	0.12345679	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Anilazine	0.37037037	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Anilazine	1.111111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Anilazine	3.333333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Anilazine	10	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Apigenin	0.041152263	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Apigenin	0.12345679	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Apigenin	0.37037037	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Apigenin	1.111111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Apigenin	3.333333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Apigenin	10	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Atrazine	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Atrazine	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Atrazine	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Atrazine	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Atrazine	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Atrazine	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	AVE8488	0.082304527	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	AVE8488	0.24691358	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	AVE8488	0.740740741	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	AVE8488	2.222222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	AVE8488	6.666666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	AVE8488	20	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Azinphos-ethyl	0.082304527	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Azinphos-ethyl	0.24691358	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Azinphos-ethyl	0.740666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Azinphos-ethyl	2.222222222	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Azinphos-ethyl	6.666666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Azinphos-ethyl	20	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Azinphos-methyl	0.041152263	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Azinphos-methyl	0.12345679	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Azinphos-methyl	0.37037037	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Azinphos-methyl	1.111111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Azinphos-methyl	3.333333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Azinphos-methyl	10	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Bendiocarb	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Bendiocarb	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Bendiocarb	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Bendiocarb	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Bendiocarb	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Bendiocarb	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Benz(a)anthracene	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Benz(a)anthracene	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Benz(a)anthracene	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Benz(a)anthracene	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Benz(a)anthracene	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Benz(a)anthracene	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Benzidine	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Benzidine	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Benzidine	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Benzidine	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Benzidine	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Benzidine	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Benzyl 4-hydroxybenzoate	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Benzyl 4-hydroxybenzoate	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Benzyl 4-hydroxybenzoate	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Benzyl 4-hydroxybenzoate	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Benzyl 4-hydroxybenzoate	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Benzyl 4-hydroxybenzoate	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Besonprodil	0.082304527	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Besonprodil	0.24691358	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Besonprodil	0.740740741	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Besonprodil	2.222222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Besonprodil	6.666666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Besonprodil	20	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Bifenthrin	0.041152263	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Bifenthrin	0.12345679	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Bifenthrin	0.37037037	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Bifenthrin	1.111111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Bifenthrin	3.333333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Bifenthrin	10	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Butralin	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Butralin	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Butralin	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Butralin	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Butralin	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Butralin	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Butylparaben	0.041	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Butylparaben	0.123333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Butylparaben	0.370333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Butylparaben	1.111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Butylparaben	3.333333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Butylparaben	10	1
+CEETOX_H295R_11DCORT	11-Deoxycortisol	C.I. Disperse Yellow 3	0.205666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	C.I. Disperse Yellow 3	0.617283951	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	C.I. Disperse Yellow 3	1.851851852	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	C.I. Disperse Yellow 3	5.555555556	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	C.I. Disperse Yellow 3	16.66666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	C.I. Disperse Yellow 3	50	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	C.I. Solvent Yellow 14	0.205761317	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	C.I. Solvent Yellow 14	0.617283951	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	C.I. Solvent Yellow 14	1.851851852	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	C.I. Solvent Yellow 14	5.555555556	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	C.I. Solvent Yellow 14	16.66666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	C.I. Solvent Yellow 14	50	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Carfentrazone-ethyl	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Carfentrazone-ethyl	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Carfentrazone-ethyl	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Carfentrazone-ethyl	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Carfentrazone-ethyl	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Carfentrazone-ethyl	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Chlorpyrifos	0.411934156	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Chlorpyrifos	1.235802469	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Chlorpyrifos	3.707407407	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Chlorpyrifos	11.12222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Chlorpyrifos	33.36666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Chlorpyrifos	100.1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Chrysin	0.205761317	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Chrysin	0.617283951	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Chrysin	1.851851852	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Chrysin	5.555555556	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Chrysin	16.66666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Chrysin	50	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CI-1018	0.411111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CI-1018	1.233333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CI-1018	3.7	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CI-1018	11.1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CI-1018	33.3	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CI-1018	99.9	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CI-1044	0.411934156	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CI-1044	1.235666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CI-1044	3.707333333	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CI-1044	11.12222222	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CI-1044	33.36666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CI-1044	100.1	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Clodinafop-propargyl	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Clodinafop-propargyl	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Clodinafop-propargyl	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Clodinafop-propargyl	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Clodinafop-propargyl	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Clodinafop-propargyl	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Cloquintocet-mexyl	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Cloquintocet-mexyl	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Cloquintocet-mexyl	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Cloquintocet-mexyl	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Cloquintocet-mexyl	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Cloquintocet-mexyl	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Clorophene	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Clorophene	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Clorophene	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Clorophene	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Clorophene	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Clorophene	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Coumaphos	0.041152263	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Coumaphos	0.12345679	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Coumaphos	0.37037037	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Coumaphos	1.111111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Coumaphos	3.333333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Coumaphos	10	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-401387	0.041152263	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-401387	0.12345679	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-401387	0.37037037	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-401387	1.111111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-401387	3.333333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-401387	10	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-422935	0.411934156	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-422935	1.235802469	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-422935	3.707407407	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-422935	11.12222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-422935	33.36666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-422935	100.1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-456773	0.411934156	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-456773	1.235802469	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-456773	3.707407407	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-456773	11.12222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-456773	33.36666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-456773	100.1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-457920	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-457920	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-457920	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-457920	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-457920	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-457920	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-634384	0.411111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-634384	1.233333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-634384	3.7	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-634384	11.1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-634384	33.3	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-634384	99.9	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-642931	0.041152263	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-642931	0.12345679	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-642931	0.37037037	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-642931	1.111111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-642931	3.333333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	CP-642931	10	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Dapsone	0.411934156	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Dapsone	1.235802469	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Dapsone	3.707407407	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Dapsone	11.12222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Dapsone	33.36666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Dapsone	100.1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Darbufelone mesylate	0.008230453	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Darbufelone mesylate	0.024691358	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Darbufelone mesylate	0.074074074	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Darbufelone mesylate	0.222222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Darbufelone mesylate	0.666666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Darbufelone mesylate	2	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Dehydroepiandrosterone	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Dehydroepiandrosterone	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Dehydroepiandrosterone	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Dehydroepiandrosterone	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Dehydroepiandrosterone	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Dehydroepiandrosterone	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Dexamethasone sodium phosphate	0.038666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Dexamethasone sodium phosphate	0.116	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Dexamethasone sodium phosphate	0.348	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Dexamethasone sodium phosphate	1.044333333	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Dexamethasone sodium phosphate	3.133333333	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Dexamethasone sodium phosphate	9.4	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Diazinon	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Diazinon	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Diazinon	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Diazinon	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Diazinon	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Diazinon	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Dimethipin	0.041193416	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Dimethipin	0.123580247	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Dimethipin	0.370740741	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Dimethipin	1.112222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Dimethipin	3.336666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Dimethipin	10.01	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Diniconazole	0.004115226	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Diniconazole	0.012345679	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Diniconazole	0.037037037	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Diniconazole	0.111111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Diniconazole	0.333333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Diniconazole	1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	EPN	0.041152263	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	EPN	0.12345679	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	EPN	0.37037037	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	EPN	1.111111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	EPN	3.333333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	EPN	10	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Epoxiconazole	0.082304527	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Epoxiconazole	0.24691358	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Epoxiconazole	0.740740741	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Epoxiconazole	2.222222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Epoxiconazole	6.666666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Epoxiconazole	20	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ethion	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ethion	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ethion	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ethion	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ethion	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ethion	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ethoxyquin	0.411111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ethoxyquin	1.233333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ethoxyquin	3.7	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ethoxyquin	11.1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ethoxyquin	33.3	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ethoxyquin	99.9	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ethylparaben	0.411111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ethylparaben	1.233333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ethylparaben	3.7	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ethylparaben	11.1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ethylparaben	33.3	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ethylparaben	99.9	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fenbuconazole	0.004115226	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fenbuconazole	0.012345679	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fenbuconazole	0.037037037	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fenbuconazole	0.111111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fenbuconazole	0.333333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fenbuconazole	1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fenitrothion	0.041152263	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fenitrothion	0.12345679	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fenitrothion	0.37037037	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fenitrothion	1.111111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fenitrothion	3.333333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fenitrothion	10	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fenoxaprop-P-ethyl	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fenoxaprop-P-ethyl	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fenoxaprop-P-ethyl	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fenoxaprop-P-ethyl	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fenoxaprop-P-ethyl	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fenoxaprop-P-ethyl	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fenthion	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fenthion	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fenthion	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fenthion	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fenthion	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fenthion	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fluazifop-P-butyl	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fluazifop-P-butyl	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fluazifop-P-butyl	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fluazifop-P-butyl	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fluazifop-P-butyl	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Fluazifop-P-butyl	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Flumetralin	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Flumetralin	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Flumetralin	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Flumetralin	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Flumetralin	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Flumetralin	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Flumiclorac-pentyl	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Flumiclorac-pentyl	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Flumiclorac-pentyl	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Flumiclorac-pentyl	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Flumiclorac-pentyl	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Flumiclorac-pentyl	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Flumioxazin	0.041152263	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Flumioxazin	0.12345679	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Flumioxazin	0.37037037	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Flumioxazin	1.111111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Flumioxazin	3.333333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Flumioxazin	10	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Formetanate hydrochloride	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Formetanate hydrochloride	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Formetanate hydrochloride	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Formetanate hydrochloride	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Formetanate hydrochloride	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Formetanate hydrochloride	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	FR130739	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	FR130739	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	FR130739	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	FR130739	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	FR130739	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	FR130739	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Hydroquinone	0.041193416	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Hydroquinone	0.123580247	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Hydroquinone	0.370740741	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Hydroquinone	1.112222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Hydroquinone	3.336666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Hydroquinone	10.01	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Imazalil	0.004115226	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Imazalil	0.012345679	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Imazalil	0.037037037	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Imazalil	0.111111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Imazalil	0.333333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Imazalil	1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Isazofos	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Isazofos	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Isazofos	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Isazofos	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Isazofos	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Isazofos	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Isofenphos	0.082304527	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Isofenphos	0.24691358	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Isofenphos	0.740666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Isofenphos	2.222222222	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Isofenphos	6.666666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Isofenphos	20	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ketoconazole	0.008230453	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ketoconazole	0.024691358	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ketoconazole	0.074074074	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ketoconazole	0.222222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ketoconazole	0.666666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Ketoconazole	2	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Malathion	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Malathion	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Malathion	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Malathion	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Malathion	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Malathion	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Melatonin	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Melatonin	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Melatonin	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Melatonin	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Melatonin	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Melatonin	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Methidathion	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Methidathion	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Methidathion	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Methidathion	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Methidathion	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Methidathion	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Methyl parathion	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Methyl parathion	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Methyl parathion	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Methyl parathion	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Methyl parathion	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Methyl parathion	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Methylene blue	0.008230453	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Methylene blue	0.024691358	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Methylene blue	0.074074074	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Methylene blue	0.222222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Methylene blue	0.666666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Methylene blue	2	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Methylparaben	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Methylparaben	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Methylparaben	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Methylparaben	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Methylparaben	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Methylparaben	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Mifepristone	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Mifepristone	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Mifepristone	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Mifepristone	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Mifepristone	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Mifepristone	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	N-Benzyladenine	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	N-Benzyladenine	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	N-Benzyladenine	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	N-Benzyladenine	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	N-Benzyladenine	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	N-Benzyladenine	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	N-Phenyl-1,4-benzenediamine	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	N-Phenyl-1,4-benzenediamine	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	N-Phenyl-1,4-benzenediamine	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	N-Phenyl-1,4-benzenediamine	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	N-Phenyl-1,4-benzenediamine	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	N-Phenyl-1,4-benzenediamine	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	N-Phenyl-2-naphthylamine	0.082304527	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	N-Phenyl-2-naphthylamine	0.24691358	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	N-Phenyl-2-naphthylamine	0.740666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	N-Phenyl-2-naphthylamine	2.222222222	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	N-Phenyl-2-naphthylamine	6.666666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	N-Phenyl-2-naphthylamine	20	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Napropamide	0.041152263	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Napropamide	0.12345679	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Napropamide	0.37037037	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Napropamide	1.111111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Napropamide	3.333333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Napropamide	10	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Nelivaptan	0.082304527	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Nelivaptan	0.24691358	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Nelivaptan	0.740740741	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Nelivaptan	2.222222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Nelivaptan	6.666666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Nelivaptan	20	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Nitrofen	0.041193416	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Nitrofen	0.123580247	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Nitrofen	0.370740741	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Nitrofen	1.112222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Nitrofen	3.336666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Nitrofen	10.01	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Nordihydroguaiaretic acid	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Nordihydroguaiaretic acid	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Nordihydroguaiaretic acid	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Nordihydroguaiaretic acid	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Nordihydroguaiaretic acid	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Nordihydroguaiaretic acid	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	o-Aminoazotoluene	0.020576132	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	o-Aminoazotoluene	0.061728395	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	o-Aminoazotoluene	0.185185185	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	o-Aminoazotoluene	0.555555556	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	o-Aminoazotoluene	1.666666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	o-Aminoazotoluene	5	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Octyl gallate	0.041193416	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Octyl gallate	0.123580247	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Octyl gallate	0.370740741	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Octyl gallate	1.112222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Octyl gallate	3.336666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Octyl gallate	10.01	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	p-Anisidinium chloride	0.411666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	p-Anisidinium chloride	1.234666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	p-Anisidinium chloride	3.703666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	p-Anisidinium chloride	11.111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	p-Anisidinium chloride	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	p-Anisidinium chloride	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	p-Cresol	0.411111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	p-Cresol	1.233333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	p-Cresol	3.7	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	p-Cresol	11.1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	p-Cresol	33.3	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	p-Cresol	99.9	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Parathion	0.041152263	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Parathion	0.12345679	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Parathion	0.37037037	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Parathion	1.111111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Parathion	3.333333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Parathion	10	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_47263	0.411111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_47263	1.233333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_47263	3.7	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_47263	11.1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_47263	33.3	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_47263	99.9	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_47330	0.004	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_47330	0.012333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_47330	0.037	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_47330	0.111333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_47330	0.333666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_47330	1.001	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_47337	0.082304527	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_47337	0.24691358	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_47337	0.740740741	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_47337	2.222222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_47337	6.666666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_47337	20	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_48510	0.082304527	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_48510	0.24691358	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_48510	0.740740741	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_48510	2.222222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_48510	6.666666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_48510	20	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_48514	0.082304527	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_48514	0.24691358	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_48514	0.740740741	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_48514	2.222222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_48514	6.666666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	PharmaGSID_48514	20	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Phenolphthalein	0.041193416	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Phenolphthalein	0.123580247	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Phenolphthalein	0.370740741	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Phenolphthalein	1.112222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Phenolphthalein	3.336666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Phenolphthalein	10.01	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Phenolphthalin	0.205761317	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Phenolphthalin	0.617283951	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Phenolphthalin	1.851851852	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Phenolphthalin	5.555555556	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Phenolphthalin	16.66666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Phenolphthalin	50	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Phosalone	0.041152263	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Phosalone	0.12345679	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Phosalone	0.37037037	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Phosalone	1.111111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Phosalone	3.333333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Phosalone	10	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Phosmet	0.411	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Phosmet	1.233333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Phosmet	3.7	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Phosmet	11.1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Phosmet	33.3	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Phosmet	99.9	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Pirimiphos-methyl	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Pirimiphos-methyl	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Pirimiphos-methyl	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Pirimiphos-methyl	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Pirimiphos-methyl	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Pirimiphos-methyl	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Prochloraz	0.004115226	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Prochloraz	0.012345679	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Prochloraz	0.037037037	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Prochloraz	0.111111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Prochloraz	0.333333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Prochloraz	1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Profenofos	0.041152263	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Profenofos	0.12345679	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Profenofos	0.37037037	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Profenofos	1.111111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Profenofos	3.333333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Profenofos	10	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Progesterone	0.041152263	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Progesterone	0.12345679	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Progesterone	0.37037037	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Progesterone	1.111111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Progesterone	3.333333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Progesterone	10	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Propanil	0.041152263	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Propanil	0.12345679	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Propanil	0.37037037	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Propanil	1.111111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Propanil	3.333333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Propanil	10	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Propetamphos	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Propetamphos	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Propetamphos	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Propetamphos	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Propetamphos	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Propetamphos	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Propylparaben	0.411934156	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Propylparaben	1.235802469	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Propylparaben	3.707407407	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Propylparaben	11.12222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Propylparaben	33.36666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Propylparaben	100.1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Prothioconazole	0.082304527	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Prothioconazole	0.24691358	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Prothioconazole	0.740666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Prothioconazole	2.222222222	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Prothioconazole	6.666666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Prothioconazole	20	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Pyraflufen-ethyl	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Pyraflufen-ethyl	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Pyraflufen-ethyl	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Pyraflufen-ethyl	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Pyraflufen-ethyl	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Pyraflufen-ethyl	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Resorcinol	0.411666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Resorcinol	1.234666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Resorcinol	3.703666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Resorcinol	11.111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Resorcinol	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Resorcinol	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	SAR115740	0.041152263	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	SAR115740	0.12345679	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	SAR115740	0.37037037	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	SAR115740	1.111111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	SAR115740	3.333333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	SAR115740	10	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Simazine	0.205761317	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Simazine	0.617283951	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Simazine	1.851851852	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Simazine	5.555555556	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Simazine	16.66666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Simazine	50	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Sodium 2-phenylphenate tetrahydrate	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Sodium 2-phenylphenate tetrahydrate	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Sodium 2-phenylphenate tetrahydrate	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Sodium 2-phenylphenate tetrahydrate	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Sodium 2-phenylphenate tetrahydrate	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Sodium 2-phenylphenate tetrahydrate	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Spironolactone	0.041193416	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Spironolactone	0.123580247	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Spironolactone	0.370740741	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Spironolactone	1.112222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Spironolactone	3.336666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Spironolactone	10.01	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Sulprofos	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Sulprofos	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Sulprofos	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Sulprofos	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Sulprofos	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Sulprofos	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Testosterone propionate	0.411522634	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Testosterone propionate	1.234567901	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Testosterone propionate	3.703703704	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Testosterone propionate	11.11111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Testosterone propionate	33.33333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Testosterone propionate	100	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Tri-o-cresyl phosphate	0.008230453	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Tri-o-cresyl phosphate	0.024666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Tri-o-cresyl phosphate	0.074	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Tri-o-cresyl phosphate	0.222222222	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Tri-o-cresyl phosphate	0.666666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Tri-o-cresyl phosphate	2	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Triamcinolone	0.205761317	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Triamcinolone	0.617283951	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Triamcinolone	1.851851852	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Triamcinolone	5.555555556	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Triamcinolone	16.66666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Triamcinolone	50	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Triflumizole	0.004115226	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Triflumizole	0.012345679	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Triflumizole	0.037037037	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Triflumizole	0.111111111	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Triflumizole	0.333333333	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Triflumizole	1	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	UK-156819	0.082304527	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	UK-156819	0.24691358	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	UK-156819	0.740740741	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	UK-156819	2.222222222	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	UK-156819	6.666666667	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	UK-156819	20	2
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Vatalanib dihydrochloride	0.034567901	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Vatalanib dihydrochloride	0.103666667	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Vatalanib dihydrochloride	0.311	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Vatalanib dihydrochloride	0.933333333	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Vatalanib dihydrochloride	2.8	4
+CEETOX_H295R_11DCORT	11-Deoxycortisol	Vatalanib dihydrochloride	8.4	4

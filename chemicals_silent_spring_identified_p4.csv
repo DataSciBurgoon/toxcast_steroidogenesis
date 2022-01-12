@@ -1,0 +1,193 @@
+index,chemical_name,CASN
+1,5alpha-Dihydrotestosterone,521-18-6
+2,Androsterone,53-41-8
+3,Diazinon,333-41-5
+4,Mifepristone,84371-65-3
+5,3-Hydroxyfluorene,6344-67-8
+6,Prochloraz,67747-09-5
+7,Melatonin,73-31-4
+8,4-(2-Phenylpropan-2-yl)-N-[4-(2-phenylpropan-2-yl)phenyl]aniline,10081-67-1
+9,Imazalil,35554-44-0
+10,SSR161421,NOCAS_47374
+11,Isofenphos,25311-71-1
+12,CP-634384,290352-28-2
+13,"3,3'-Dimethylbenzidine",119-93-7
+14,2-Naphthylamine,91-59-8
+15,"4,4'-Methylenedianiline",101-77-9
+16,Zearalenone,17924-92-4
+17,Methidathion,950-37-8
+18,5-Amino-2-methylphenol,2835-95-2
+19,C.I. Disperse Yellow 3,2832-40-8
+20,"4,4'-Methylenebis(2-methylaniline)",838-88-0
+21,Azinphos-ethyl,2642-71-9
+22,"3,4-Dichloroaniline",95-76-1
+23,Phosalone,2310-17-0
+24,Ethoxyquin,91-53-2
+25,Testosterone propionate,57-85-2
+26,"4,4'-Sulfonylbis[2-(prop-2-en-1-yl)phenol]",41481-66-7
+27,Coumaphos,56-72-4
+28,"3,3'-Dimethoxybenzidine",119-90-4
+29,Chrysin,480-40-0
+30,Methyl parathion,298-00-0
+31,2-Amino-6-methoxybenzothiazole,1747-60-0
+32,CI-1044,NOCAS_47291
+33,Disulfoton sulfone,6/5/2497
+34,"1,5-Naphthalenediamine",2243-62-1
+35,Nordihydroguaiaretic acid,500-38-9
+36,Ethion,563-12-2
+37,2-Amino-5-azotoluene,97-56-3
+38,Triflumizole,68694-11-1
+39,"2,3-Diaminotoluene",2687-25-4
+40,Fenoxaprop-P-ethyl,71283-80-2
+41,Darbufelone mesylate,139340-56-0
+42,Triphenylstibine,603-36-1
+43,Fenitrothion,122-14-5
+44,C.I. Solvent Yellow 14,842-07-9
+45,Phenolphthalin,81-90-3
+46,AVE8488,NOCAS_47349
+47,Retinol acetate,127-47-9
+48,2-Aminoanthraquinone,117-79-3
+49,Benzidine,92-87-5
+50,Malathion,121-75-5
+51,Progesterone,57-83-0
+52,"1,4-Bis(butylamino)anthracene-9,10-dione",17354-14-2
+53,2-Methyl-5-nitroaniline,99-55-8
+54,2-Methoxy-5-nitroaniline,99-59-2
+55,Methylene blue,61-73-4
+56,Ethylparaben,120-47-8
+57,Hydroquinone,123-31-9
+58,CP-456773,210826-40-7
+59,Methylparaben,99-76-3
+60,3-Phenylphenol,580-51-8
+61,4-Methoxyaniline hydrochloride,20265-97-8
+62,"1,3-Bis(4-aminophenoxy)benzene",2479-46-1
+63,Propetamphos,31218-83-4
+64,Benzylparaben,94-18-8
+65,Pyrasulfotole metabolite (SXX 0665),120983-64-4
+66,"2,2-Dibromo-3-nitrilopropionamide",10222-01-2
+67,CP-457920,220860-50-4
+68,(E)-beta-Damascone,23726-91-2
+69,Pirimiphos-methyl,29232-93-7
+70,Phenolphthalein,77-09-8
+71,"3,3'-Dimethylbenzidine dihydrochloride",612-82-8
+72,UK-156819,162706-14-1
+73,"4,4'-Methylenebis(N,N-dimethylaniline)",101-61-1
+74,4-Chloro-2-methylaniline,95-69-2
+75,EPN,2104-64-5
+76,Clodinafop-propargyl,105512-06-9
+77,PD 0343701,676116-04-4
+78,2-Methoxy-5-methylaniline,120-71-8
+79,Antioxidant 1098,23128-74-7
+80,"2,3-Dinitrotoluene",602-01-7
+81,"4-Chloro-1,2-diaminobenzene",95-83-0
+82,Sulprofos,35400-43-2
+83,Cytembena,21739-91-3
+84,Isazofos,42509-80-8
+85,CP-422935,NOCAS_47299
+86,Bendiocarb,22781-23-3
+87,Propylparaben,94-13-3
+88,4-Fluoro-3-nitroaniline,364-76-1
+89,Dapsone,80-08-0
+90,Phenylbutazone,50-33-9
+91,Parathion,56-38-2
+92,Acid Orange 156,68555-86-2
+93,Triamcinolone,124-94-7
+94,"4,4'-Sulfonyldiphenol",80-09-1
+95,PharmaGSID47263,349495-42-7
+96,"2,4,6-Tris(allyloxy)-1,3,5-triazine",101-37-1
+97,SAR115740,NOCAS_47366
+98,"3,3',5,5'-Tetrabromobisphenol A",79-94-7
+99,"4-Androstene-3,17-dione",63-05-8
+100,CI-1018,NOCAS_47248
+101,Rimsulfuron,122931-48-0
+102,all-trans-Retinoic acid,302-79-4
+103,2-Hydroxyethyl acrylate,818-61-1
+104,FR130739,136042-19-8
+105,Formetanate hydrochloride,23422-53-9
+106,Fenbuconazole,114369-43-6
+107,"N-Phenyl-1,4-benzenediamine",101-54-2
+108,"2,2'-Dibenzoylaminodiphenyl disulfide",135-57-9
+109,"2,4,6-Tribromophenol",118-79-6
+110,4-Pentylaniline,33228-44-3
+111,2-Methoxy-4-nitroaniline,97-52-9
+112,Fenthion,55-38-9
+113,4-Iodophenol,540-38-5
+114,Dimethipin,55290-64-7
+115,4-Chloroaniline,106-47-8
+116,PK 11195,85532-75-8
+117,"1,4-Dihydroxy-2-naphthoic acid",31519-22-9
+118,Sodium 2-phenylphenate tetrahydrate,6152-33-6
+119,Vatalanib dihydrochloride,212141-51-0
+120,Thiazopyr,117718-60-2
+121,PharmaGSID47330,NOCAS_47330
+122,Besonprodil,253450-09-8
+123,Dehydroepiandrosterone,53-43-0
+124,Fluazifop-P-butyl,79241-46-6
+125,Flumetralin,62924-70-3
+126,Diniconazole,83657-24-3
+127,Butylparaben,94-26-8
+128,"2,4,6-Trichlorophenol",88-06-2
+129,Acifluorfen,50594-66-6
+130,Benz(a)anthracene,56-55-3
+131,Flumiclorac-pentyl,87546-18-7
+132,"3,4-Dinitrotoluene",610-39-9
+133,N-Phenyl-2-naphthylamine,135-88-6
+134,"2,5-Dichlorophenol",583-78-8
+135,2-Ethoxy-5-(1-propenyl)phenol,94-86-0
+136,PharmaGSID48510,460081-99-6
+137,Spironolactone,52-01-7
+138,"1,4-Benzenediamine",106-50-3
+139,N-Benzyladenine,1214-39-7
+140,"3,3'-Dimethoxybenzidine dihydrochloride",20325-40-0
+141,Azinphos-methyl,86-50-0
+142,Prothioconazole,178928-70-6
+143,5-Heptyldihydro-2(3H)-furanone,104-67-6
+144,4-Chloro-2-methylphenol,1570-64-5
+145,Flumioxazin,103361-09-7
+146,"3,4-Diaminotoluene",496-72-0
+147,Octyl gallate,1034-01-1
+148,"2,4-Dimethylphenol",105-67-9
+149,Diphenylmercury(II),587-85-9
+150,Ametryn,834-12-8
+151,4-Nitrophenol,100-02-7
+152,p-Cresol,106-44-5
+153,Nitrofen,1836-75-5
+154,Mancozeb,1/7/8018
+155,Carfentrazone-ethyl,128639-02-1
+156,3-Isopropylphenol,618-45-1
+157,Ketoconazole,65277-42-1
+158,"1,6-Hexanediol diacrylate",13048-33-4
+159,17-Methyltestosterone,58-18-4
+160,Clorophene,120-32-1
+161,Propanil,709-98-8
+162,Resorcinol,108-46-3
+163,2-Hydroxybenzonitrile,611-20-1
+164,Di(2-ethylhexyl) phthalate,117-81-7
+165,(+/-)-cis-Permethrin,61949-76-6
+166,Chlorpyrifos,2921-88-2
+167,CP-642931,NOCAS_47267
+168,Nelivaptan,439687-69-1
+169,3-tert-Butylphenol,585-34-2
+170,Epoxiconazole,133855-98-8
+171,4-Chloro-3-methylphenol,59-50-7
+172,Profenofos,41198-08-7
+173,Catechol,120-80-9
+174,C.I. Solvent Red 80,6358-53-8
+175,CP-401387,199171-88-5
+176,Cloquintocet-mexyl,99607-70-2
+177,Phosmet,732-11-6
+178,Pyraflufen-ethyl,129630-19-9
+179,Apigenin,520-36-5
+180,4-(Butan-2-yl)phenol,99-71-8
+181,PharmaGSID47337,1061517-62-1
+182,5-Chloro-2-methyl-3(2H)-isothiazolone,26172-55-4
+183,Anilazine,101-05-3
+184,Butralin,33629-47-9
+185,Atrazine,1912-24-9
+186,Tri-o-cresyl phosphate,78-30-8
+187,Dexamethasone sodium phosphate,2392-39-4
+188,PharmaGSID48514,NOCAS_48514
+189,Napropamide,15299-99-7
+190,Simazine,122-34-9
+191,"1,4-Diaminoanthraquinone",128-95-0
+192,Bifenthrin,82657-04-3

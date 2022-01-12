@@ -1,0 +1,960 @@
+assay_component_name	technological_target_type_sub	chnm	conc	count(*)
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1-(Bromomethyl)-3-phenoxybenzene	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1-(Bromomethyl)-3-phenoxybenzene	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1-(Bromomethyl)-3-phenoxybenzene	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1-(Bromomethyl)-3-phenoxybenzene	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1-(Bromomethyl)-3-phenoxybenzene	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1-(Bromomethyl)-3-phenoxybenzene	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1-Chloroanthraquinone	0.044	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1-Chloroanthraquinone	0.132	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1-Chloroanthraquinone	0.396296296	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1-Chloroanthraquinone	1.188888889	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1-Chloroanthraquinone	3.566666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1-Chloroanthraquinone	10.7	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1,2-Phenylenediamine	0.041152263	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1,2-Phenylenediamine	0.12345679	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1,2-Phenylenediamine	0.37037037	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1,2-Phenylenediamine	1.111111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1,2-Phenylenediamine	3.333333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1,2-Phenylenediamine	10	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1,4-Benzenediamine	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1,4-Benzenediamine	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1,4-Benzenediamine	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1,4-Benzenediamine	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1,4-Benzenediamine	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1,4-Benzenediamine	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1,4-Diaminoanthraquinone	0.205761317	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1,4-Diaminoanthraquinone	0.617283951	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1,4-Diaminoanthraquinone	1.851851852	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1,4-Diaminoanthraquinone	5.555555556	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1,4-Diaminoanthraquinone	16.66666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1,4-Diaminoanthraquinone	50	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1,5-Naphthalenediamine	0.041111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1,5-Naphthalenediamine	0.123333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1,5-Naphthalenediamine	0.37	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1,5-Naphthalenediamine	1.11	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1,5-Naphthalenediamine	3.33	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	1,5-Naphthalenediamine	9.99	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	10-Undecenoic acid	0.411934156	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	10-Undecenoic acid	1.235802469	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	10-Undecenoic acid	3.707407407	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	10-Undecenoic acid	11.12222222	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	10-Undecenoic acid	33.36666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	10-Undecenoic acid	100.1	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	17alpha-Estradiol	0.041193416	3
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	17alpha-Estradiol	0.123580247	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	17alpha-Estradiol	0.370666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	17alpha-Estradiol	1.112222222	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	17alpha-Estradiol	3.336666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	17alpha-Estradiol	10.01	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	17alpha-Ethinylestradiol	0.004115226	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	17alpha-Ethinylestradiol	0.012345679	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	17alpha-Ethinylestradiol	0.037037037	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	17alpha-Ethinylestradiol	0.111111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	17alpha-Ethinylestradiol	0.333333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	17alpha-Ethinylestradiol	1	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	17beta-Estradiol	0.041	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	17beta-Estradiol	0.123333333	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	17beta-Estradiol	0.37	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	17beta-Estradiol	1.11	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	17beta-Estradiol	3.33	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	17beta-Estradiol	9.99	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-(3-Phenylpropyl)pyridine	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-(3-Phenylpropyl)pyridine	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-(3-Phenylpropyl)pyridine	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-(3-Phenylpropyl)pyridine	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-(3-Phenylpropyl)pyridine	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-(3-Phenylpropyl)pyridine	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Aminoanthraquinone	0.082304527	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Aminoanthraquinone	0.24691358	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Aminoanthraquinone	0.740740741	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Aminoanthraquinone	2.222222222	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Aminoanthraquinone	6.666666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Aminoanthraquinone	20	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Ethoxy-5-(1-propenyl)phenol	0.411522634	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Ethoxy-5-(1-propenyl)phenol	1.234567901	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Ethoxy-5-(1-propenyl)phenol	3.703666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Ethoxy-5-(1-propenyl)phenol	11.111	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Ethoxy-5-(1-propenyl)phenol	33.33333333	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Ethoxy-5-(1-propenyl)phenol	100	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Hydroxy-4-methoxybenzophenone	0.205761317	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Hydroxy-4-methoxybenzophenone	0.617283951	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Hydroxy-4-methoxybenzophenone	1.851851852	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Hydroxy-4-methoxybenzophenone	5.555555556	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Hydroxy-4-methoxybenzophenone	16.66666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Hydroxy-4-methoxybenzophenone	50	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Naphthalenol	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Naphthalenol	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Naphthalenol	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Naphthalenol	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Naphthalenol	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Naphthalenol	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Naphthylamine	0.411111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Naphthylamine	1.233333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Naphthylamine	3.7	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Naphthylamine	11.1	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Naphthylamine	33.3	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Naphthylamine	99.9	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Phenylphenol	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Phenylphenol	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Phenylphenol	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Phenylphenol	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Phenylphenol	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2-Phenylphenol	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,2-Bis(4-hydroxyphenyl)-1,1,1-trichloroethane	0.082304527	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,2-Bis(4-hydroxyphenyl)-1,1,1-trichloroethane	0.24691358	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,2-Bis(4-hydroxyphenyl)-1,1,1-trichloroethane	0.740740741	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,2-Bis(4-hydroxyphenyl)-1,1,1-trichloroethane	2.222222222	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,2-Bis(4-hydroxyphenyl)-1,1,1-trichloroethane	6.666666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,2-Bis(4-hydroxyphenyl)-1,1,1-trichloroethane	20	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,2'-Dibenzoylaminodiphenyl disulfide	0.082304527	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,2'-Dibenzoylaminodiphenyl disulfide	0.24691358	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,2'-Dibenzoylaminodiphenyl disulfide	0.740666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,2'-Dibenzoylaminodiphenyl disulfide	2.222222222	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,2'-Dibenzoylaminodiphenyl disulfide	6.666666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,2'-Dibenzoylaminodiphenyl disulfide	20	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4-Dichlorophenol	0.411111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4-Dichlorophenol	1.233333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4-Dichlorophenol	3.7	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4-Dichlorophenol	11.1	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4-Dichlorophenol	33.3	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4-Dichlorophenol	99.9	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4-Dimethylphenol	0.411111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4-Dimethylphenol	1.233333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4-Dimethylphenol	3.7	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4-Dimethylphenol	11.1	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4-Dimethylphenol	33.3	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4-Dimethylphenol	99.9	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4,6-Tribromophenol	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4,6-Tribromophenol	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4,6-Tribromophenol	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4,6-Tribromophenol	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4,6-Tribromophenol	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4,6-Tribromophenol	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4,6-Trichlorophenol	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4,6-Trichlorophenol	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4,6-Trichlorophenol	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4,6-Trichlorophenol	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4,6-Trichlorophenol	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4,6-Tris(allyloxy)-1,3,5-triazine	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4,6-Tris(allyloxy)-1,3,5-triazine	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4,6-Tris(allyloxy)-1,3,5-triazine	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4,6-Tris(allyloxy)-1,3,5-triazine	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4,6-Tris(allyloxy)-1,3,5-triazine	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,4,6-Tris(allyloxy)-1,3,5-triazine	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,6-Dinitrotoluene	0.411111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,6-Dinitrotoluene	1.233333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,6-Dinitrotoluene	3.7	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,6-Dinitrotoluene	11.1	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,6-Dinitrotoluene	33.3	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	2,6-Dinitrotoluene	99.9	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Methoxyphenol	0.411522634	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Methoxyphenol	1.234567901	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Methoxyphenol	3.703666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Methoxyphenol	11.111	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Methoxyphenol	33.33333333	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Methoxyphenol	100	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Methyl-4-(methylthio)phenol	0.411522634	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Methyl-4-(methylthio)phenol	1.234567901	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Methyl-4-(methylthio)phenol	3.703666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Methyl-4-(methylthio)phenol	11.111	3
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Methyl-4-(methylthio)phenol	33.33333333	3
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Methyl-4-(methylthio)phenol	100	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Phenoxybenzenemethanol	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Phenoxybenzenemethanol	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Phenoxybenzenemethanol	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Phenoxybenzenemethanol	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Phenoxybenzenemethanol	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Phenoxybenzenemethanol	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Phenyl-2-propen-1-ol	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Phenyl-2-propen-1-ol	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Phenyl-2-propen-1-ol	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Phenyl-2-propen-1-ol	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Phenyl-2-propen-1-ol	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Phenyl-2-propen-1-ol	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Phenylphenol	0.082304527	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Phenylphenol	0.24691358	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Phenylphenol	0.740666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Phenylphenol	2.222222222	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Phenylphenol	6.666666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3-Phenylphenol	20	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dichlorobenzidine dihydrochloride	0.008230453	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dichlorobenzidine dihydrochloride	0.024666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dichlorobenzidine dihydrochloride	0.074	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dichlorobenzidine dihydrochloride	0.222222222	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dichlorobenzidine dihydrochloride	0.666666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dichlorobenzidine dihydrochloride	2	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dimethoxybenzidine	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dimethoxybenzidine	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dimethoxybenzidine	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dimethoxybenzidine	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dimethoxybenzidine	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dimethoxybenzidine	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dimethoxybenzidine dihydrochloride	0.082304527	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dimethoxybenzidine dihydrochloride	0.24691358	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dimethoxybenzidine dihydrochloride	0.740740741	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dimethoxybenzidine dihydrochloride	2.222222222	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dimethoxybenzidine dihydrochloride	6.666666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dimethoxybenzidine dihydrochloride	20	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dimethylbenzidine	0.411111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dimethylbenzidine	1.233333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dimethylbenzidine	3.7	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dimethylbenzidine	11.1	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dimethylbenzidine	33.3	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dimethylbenzidine	99.9	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dimethylbenzidine dihydrochloride	0.082304527	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dimethylbenzidine dihydrochloride	0.24691358	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dimethylbenzidine dihydrochloride	0.740740741	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dimethylbenzidine dihydrochloride	2.222222222	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dimethylbenzidine dihydrochloride	6.666666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3'-Dimethylbenzidine dihydrochloride	20	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3',5,5'-Tetrabromobisphenol A	0.041193416	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3',5,5'-Tetrabromobisphenol A	0.123580247	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3',5,5'-Tetrabromobisphenol A	0.370740741	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3',5,5'-Tetrabromobisphenol A	1.112222222	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3',5,5'-Tetrabromobisphenol A	3.336666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,3',5,5'-Tetrabromobisphenol A	10.01	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,4-Diaminotoluene	0.041111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,4-Diaminotoluene	0.123333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,4-Diaminotoluene	0.37	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,4-Diaminotoluene	1.11	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,4-Diaminotoluene	3.33	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,4-Diaminotoluene	9.99	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,4-Dimethylphenol	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,4-Dimethylphenol	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,4-Dimethylphenol	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,4-Dimethylphenol	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,4-Dimethylphenol	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	3,4-Dimethylphenol	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-(2-Methylbutan-2-yl)phenol	0.411934156	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-(2-Methylbutan-2-yl)phenol	1.235802469	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-(2-Methylbutan-2-yl)phenol	3.707407407	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-(2-Methylbutan-2-yl)phenol	11.12222222	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-(2-Methylbutan-2-yl)phenol	33.36666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-(2-Methylbutan-2-yl)phenol	100.1	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-(Diethylamino)benzaldehyde	0.411522634	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-(Diethylamino)benzaldehyde	1.234567901	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-(Diethylamino)benzaldehyde	3.703666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-(Diethylamino)benzaldehyde	11.111	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-(Diethylamino)benzaldehyde	33.33333333	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-(Diethylamino)benzaldehyde	100	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Aminoazobenzene	0.411111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Aminoazobenzene	1.233333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Aminoazobenzene	3.7	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Aminoazobenzene	11.1	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Aminoazobenzene	33.3	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Aminoazobenzene	99.9	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Butylphenol	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Butylphenol	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Butylphenol	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Butylphenol	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Butylphenol	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Butylphenol	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Chloro-2-methylphenol	0.411666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Chloro-2-methylphenol	1.234666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Chloro-2-methylphenol	3.703666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Chloro-2-methylphenol	11.111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Chloro-2-methylphenol	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Chloro-2-methylphenol	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Iodophenol	0.411522634	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Iodophenol	1.234567901	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Iodophenol	3.703666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Iodophenol	11.111	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Iodophenol	33.33333333	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Iodophenol	100	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Pentylphenol	0.411522634	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Pentylphenol	1.234567901	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Pentylphenol	3.703666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Pentylphenol	11.111	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Pentylphenol	33.33333333	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4-Pentylphenol	100	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4'-Acetylbiphenyl	0.411522634	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4'-Acetylbiphenyl	1.234567901	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4'-Acetylbiphenyl	3.703666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4'-Acetylbiphenyl	11.111	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4'-Acetylbiphenyl	33.33333333	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	4'-Acetylbiphenyl	100	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	5-Amino-2-methylphenol	0.411111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	5-Amino-2-methylphenol	1.233333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	5-Amino-2-methylphenol	3.7	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	5-Amino-2-methylphenol	11.1	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	5-Amino-2-methylphenol	33.3	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	5-Amino-2-methylphenol	99.9	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	7,12-Dimethylbenz(a)anthracene	0.020576132	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	7,12-Dimethylbenz(a)anthracene	0.061728395	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	7,12-Dimethylbenz(a)anthracene	0.185185185	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	7,12-Dimethylbenz(a)anthracene	0.555555556	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	7,12-Dimethylbenz(a)anthracene	1.666666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	7,12-Dimethylbenz(a)anthracene	5	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Acibenzolar-S-methyl	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Acibenzolar-S-methyl	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Acibenzolar-S-methyl	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Acibenzolar-S-methyl	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Acibenzolar-S-methyl	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Acibenzolar-S-methyl	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Ametryn	0.411522634	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Ametryn	1.234567901	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Ametryn	3.703703704	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Ametryn	11.11111111	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Ametryn	33.33333333	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Ametryn	100	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Anilazine	0.041152263	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Anilazine	0.12345679	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Anilazine	0.37037037	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Anilazine	1.111111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Anilazine	3.333333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Anilazine	10	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Atrazine	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Atrazine	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Atrazine	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Atrazine	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Atrazine	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Atrazine	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Azinphos-ethyl	0.082304527	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Azinphos-ethyl	0.24691358	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Azinphos-ethyl	0.740666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Azinphos-ethyl	2.222222222	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Azinphos-ethyl	6.666666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Azinphos-ethyl	20	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Azobenzene	0.411111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Azobenzene	1.233333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Azobenzene	3.7	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Azobenzene	11.1	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Azobenzene	33.3	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Azobenzene	99.9	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Bendiocarb	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Bendiocarb	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Bendiocarb	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Bendiocarb	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Bendiocarb	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Bendiocarb	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Benz(a)anthracene	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Benz(a)anthracene	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Benz(a)anthracene	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Benz(a)anthracene	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Benz(a)anthracene	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Benz(a)anthracene	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Benzidine	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Benzidine	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Benzidine	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Benzidine	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Benzidine	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Benzidine	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Bisphenol A	0.041152263	8
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Bisphenol A	0.12345679	8
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Bisphenol A	0.37037037	8
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Bisphenol A	1.111111111	8
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Bisphenol A	3.333333333	7
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Bisphenol A	10	8
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	C.I. Disperse Yellow 3	0.205666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	C.I. Disperse Yellow 3	0.617283951	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	C.I. Disperse Yellow 3	1.851851852	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	C.I. Disperse Yellow 3	5.555555556	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	C.I. Disperse Yellow 3	16.66666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	C.I. Disperse Yellow 3	50	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	C.I. Solvent Yellow 14	0.205761317	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	C.I. Solvent Yellow 14	0.617283951	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	C.I. Solvent Yellow 14	1.851851852	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	C.I. Solvent Yellow 14	5.555555556	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	C.I. Solvent Yellow 14	16.66666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	C.I. Solvent Yellow 14	50	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	C.I. Solvent Yellow 56	0.082304527	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	C.I. Solvent Yellow 56	0.24691358	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	C.I. Solvent Yellow 56	0.740666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	C.I. Solvent Yellow 56	2.222222222	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	C.I. Solvent Yellow 56	6.666666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	C.I. Solvent Yellow 56	20	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Carbaryl	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Carbaryl	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Carbaryl	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Carbaryl	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Carbaryl	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Carbaryl	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Carboxin	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Carboxin	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Carboxin	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Carboxin	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Carboxin	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Carboxin	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Carfentrazone-ethyl	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Carfentrazone-ethyl	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Carfentrazone-ethyl	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Carfentrazone-ethyl	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Carfentrazone-ethyl	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Carfentrazone-ethyl	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Chlorpropham	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Chlorpropham	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Chlorpropham	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Chlorpropham	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Chlorpropham	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Chlorpropham	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Chlorpyrifos-methyl	0.041152263	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Chlorpyrifos-methyl	0.12345679	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Chlorpyrifos-methyl	0.37037037	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Chlorpyrifos-methyl	1.111111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Chlorpyrifos-methyl	3.333333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Chlorpyrifos-methyl	10	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Chlorthal-dimethyl	0.411934156	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Chlorthal-dimethyl	1.235802469	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Chlorthal-dimethyl	3.707407407	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Chlorthal-dimethyl	11.12222222	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Chlorthal-dimethyl	33.36666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Chlorthal-dimethyl	100.1	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CI-1018	0.411111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CI-1018	1.233333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CI-1018	3.7	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CI-1018	11.1	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CI-1018	33.3	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CI-1018	99.9	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CI-1044	0.411934156	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CI-1044	1.235666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CI-1044	3.707333333	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CI-1044	11.12222222	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CI-1044	33.36666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CI-1044	100.1	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cinmethylin	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cinmethylin	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cinmethylin	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cinmethylin	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cinmethylin	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cinmethylin	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CJ-013790	0.041	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CJ-013790	0.123333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CJ-013790	0.37	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CJ-013790	1.11	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CJ-013790	3.33	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CJ-013790	9.99	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cladribine	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cladribine	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cladribine	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cladribine	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cladribine	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cladribine	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Clodinafop-propargyl	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Clodinafop-propargyl	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Clodinafop-propargyl	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Clodinafop-propargyl	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Clodinafop-propargyl	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Clodinafop-propargyl	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Clomazone	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Clomazone	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Clomazone	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Clomazone	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Clomazone	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Clomazone	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Clove leaf oil	0.205761317	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Clove leaf oil	0.617283951	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Clove leaf oil	1.851851852	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Clove leaf oil	5.555555556	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Clove leaf oil	16.66666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Clove leaf oil	50	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Coumaphos	0.041152263	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Coumaphos	0.12345679	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Coumaphos	0.37037037	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Coumaphos	1.111111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Coumaphos	3.333333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Coumaphos	10	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-283097	0.041152263	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-283097	0.12345679	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-283097	0.37037037	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-283097	1.111111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-283097	3.333333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-283097	10	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-401387	0.041152263	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-401387	0.12345679	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-401387	0.37037037	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-401387	1.111111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-401387	3.333333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-401387	10	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-456773	0.411934156	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-456773	1.235802469	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-456773	3.707407407	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-456773	11.12222222	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-456773	33.36666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-456773	100.1	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-457677	0.411522634	3
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-457677	1.234567901	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-457677	3.703666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-457677	11.111	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-457677	33.33333333	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-457677	100	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-457920	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-457920	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-457920	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-457920	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-457920	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-457920	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-671305	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-671305	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-671305	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-671305	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-671305	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	CP-671305	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cybutryne	0.411666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cybutryne	1.234666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cybutryne	3.703666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cybutryne	11.111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cybutryne	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cybutryne	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cycloate	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cycloate	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cycloate	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cycloate	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cycloate	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cycloate	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cyfluthrin	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cyfluthrin	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cyfluthrin	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cyfluthrin	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cyfluthrin	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cyfluthrin	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cyproconazole	0.041152263	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cyproconazole	0.12345679	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cyproconazole	0.37037037	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cyproconazole	1.111111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cyproconazole	3.333333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Cyproconazole	10	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Deethylatrazine	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Deethylatrazine	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Deethylatrazine	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Deethylatrazine	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Deethylatrazine	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Deethylatrazine	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Deisopropylatrazine	0.411522634	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Deisopropylatrazine	1.234567901	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Deisopropylatrazine	3.703703704	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Deisopropylatrazine	11.11111111	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Deisopropylatrazine	33.33333333	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Deisopropylatrazine	100	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Diazinon	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Diazinon	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Diazinon	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Diazinon	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Diazinon	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Diazinon	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Dicyclohexylamine	0.205761317	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Dicyclohexylamine	0.617283951	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Dicyclohexylamine	1.851851852	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Dicyclohexylamine	5.555555556	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Dicyclohexylamine	16.66666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Dicyclohexylamine	50	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Difenoconazole	0.004115226	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Difenoconazole	0.012345679	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Difenoconazole	0.037037037	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Difenoconazole	0.111111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Difenoconazole	0.333333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Difenoconazole	1	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Dimethomorph	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Dimethomorph	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Dimethomorph	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Dimethomorph	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Dimethomorph	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Dimethomorph	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Diphenyl isophthalate	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Diphenyl isophthalate	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Diphenyl isophthalate	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Diphenyl isophthalate	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Diphenyl isophthalate	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Diphenyl isophthalate	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Diphenylamine	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Diphenylamine	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Diphenylamine	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Diphenylamine	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Diphenylamine	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Diphenylamine	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Endosulfan sulfate	0.082304527	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Endosulfan sulfate	0.24691358	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Endosulfan sulfate	0.740740741	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Endosulfan sulfate	2.222222222	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Endosulfan sulfate	6.666666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Endosulfan sulfate	20	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	EPN	0.041152263	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	EPN	0.12345679	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	EPN	0.37037037	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	EPN	1.111111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	EPN	3.333333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	EPN	10	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Equilin	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Equilin	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Equilin	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Equilin	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Equilin	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Equilin	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Estriol	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Estriol	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Estriol	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Estriol	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Estriol	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Estriol	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Estrone	0.411	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Estrone	1.233333333	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Estrone	3.7	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Estrone	11.1	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Estrone	33.3	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Estrone	99.9	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Ethion	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Ethion	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Ethion	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Ethion	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Ethion	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Ethion	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Ethoprop	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Ethoprop	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Ethoprop	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Ethoprop	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Ethoprop	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Ethoprop	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Ethylparaben	0.411111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Ethylparaben	1.233333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Ethylparaben	3.7	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Ethylparaben	11.1	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Ethylparaben	33.3	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Ethylparaben	99.9	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Fenitrothion	0.041152263	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Fenitrothion	0.12345679	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Fenitrothion	0.37037037	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Fenitrothion	1.111111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Fenitrothion	3.333333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Fenitrothion	10	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Fenthion	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Fenthion	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Fenthion	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Fenthion	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Fenthion	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Fenthion	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Fluoranthene	0.411934156	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Fluoranthene	1.235802469	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Fluoranthene	3.707407407	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Fluoranthene	11.12222222	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Fluoranthene	33.36666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Fluoranthene	100.1	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Formetanate hydrochloride	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Formetanate hydrochloride	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Formetanate hydrochloride	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Formetanate hydrochloride	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Formetanate hydrochloride	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Formetanate hydrochloride	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	GSK163929B	0.082304527	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	GSK163929B	0.24691358	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	GSK163929B	0.740740741	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	GSK163929B	2.222222222	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	GSK163929B	6.666666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	GSK163929B	20	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Hexythiazox	0.004115226	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Hexythiazox	0.012345679	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Hexythiazox	0.037037037	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Hexythiazox	0.111111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Hexythiazox	0.333333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Hexythiazox	1	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Hydroquinone	0.041193416	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Hydroquinone	0.123580247	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Hydroquinone	0.370740741	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Hydroquinone	1.112222222	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Hydroquinone	3.336666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Hydroquinone	10.01	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Indan-5-ol	0.411522634	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Indan-5-ol	1.234567901	3
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Indan-5-ol	3.703666667	3
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Indan-5-ol	11.111	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Indan-5-ol	33.33333333	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Indan-5-ol	100	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Isazofos	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Isazofos	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Isazofos	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Isazofos	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Isazofos	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Isazofos	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Isoeugenol	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Isoeugenol	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Isoeugenol	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Isoeugenol	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Isoeugenol	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Isoeugenol	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Lactofen	0.041152263	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Lactofen	0.12345679	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Lactofen	0.37037037	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Lactofen	1.111111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Lactofen	3.333333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Lactofen	10	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Malathion	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Malathion	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Malathion	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Malathion	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Malathion	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Malathion	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Mepanipyrim	0.411111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Mepanipyrim	1.233333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Mepanipyrim	3.7	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Mepanipyrim	11.1	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Mepanipyrim	33.3	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Mepanipyrim	99.9	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Methiocarb	0.411522634	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Methiocarb	1.234567901	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Methiocarb	3.703666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Methiocarb	11.111	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Methiocarb	33.33333333	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Methiocarb	100	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Methyl parathion	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Methyl parathion	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Methyl parathion	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Methyl parathion	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Methyl parathion	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Methyl parathion	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Methylparaben	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Methylparaben	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Methylparaben	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Methylparaben	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Methylparaben	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Methylparaben	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	MK-968	0.041152263	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	MK-968	0.12345679	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	MK-968	0.37037037	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	MK-968	1.111111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	MK-968	3.333333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	MK-968	10	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Molinate	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Molinate	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Molinate	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Molinate	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Molinate	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Molinate	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	N-Benzyladenine	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	N-Benzyladenine	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	N-Benzyladenine	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	N-Benzyladenine	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	N-Benzyladenine	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	N-Benzyladenine	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	N-Phenyl-2-naphthylamine	0.082304527	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	N-Phenyl-2-naphthylamine	0.24691358	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	N-Phenyl-2-naphthylamine	0.740666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	N-Phenyl-2-naphthylamine	2.222222222	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	N-Phenyl-2-naphthylamine	6.666666667	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	N-Phenyl-2-naphthylamine	20	4
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	N,N-Dimethyloctylamine	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	N,N-Dimethyloctylamine	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	N,N-Dimethyloctylamine	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	N,N-Dimethyloctylamine	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	N,N-Dimethyloctylamine	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	N,N-Dimethyloctylamine	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Nitrilotriacetic acid	0.411934156	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Nitrilotriacetic acid	1.235802469	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Nitrilotriacetic acid	3.707407407	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Nitrilotriacetic acid	11.12222222	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Nitrilotriacetic acid	33.36666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Nitrilotriacetic acid	100.1	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Nonanoic acid	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Nonanoic acid	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Nonanoic acid	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Nonanoic acid	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Nonanoic acid	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Nonanoic acid	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Norflurazon	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Norflurazon	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Norflurazon	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Norflurazon	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Norflurazon	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Norflurazon	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Oxyfluorfen	0.041152263	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Oxyfluorfen	0.12345679	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Oxyfluorfen	0.37037037	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Oxyfluorfen	1.111111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Oxyfluorfen	3.333333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Oxyfluorfen	10	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	p-Cresol	0.411111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	p-Cresol	1.233333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	p-Cresol	3.7	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	p-Cresol	11.1	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	p-Cresol	33.3	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	p-Cresol	99.9	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Paclobutrazol	0.041152263	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Paclobutrazol	0.12345679	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Paclobutrazol	0.37037037	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Paclobutrazol	1.111111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Paclobutrazol	3.333333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Paclobutrazol	10	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Parathion	0.041152263	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Parathion	0.12345679	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Parathion	0.37037037	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Parathion	1.111111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Parathion	3.333333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Parathion	10	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Permethrin	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Permethrin	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Permethrin	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Permethrin	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Permethrin	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Permethrin	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Phenothiazine	0.205761317	6
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Phenothiazine	0.617283951	6
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Phenothiazine	1.851851852	6
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Phenothiazine	5.555555556	6
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Phenothiazine	16.66666667	6
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Phenothiazine	50	6
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Piperonyl butoxide	0.041152263	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Piperonyl butoxide	0.12345679	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Piperonyl butoxide	0.37037037	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Piperonyl butoxide	1.111111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Piperonyl butoxide	3.333333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Piperonyl butoxide	10	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Pirimiphos-methyl	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Pirimiphos-methyl	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Pirimiphos-methyl	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Pirimiphos-methyl	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Pirimiphos-methyl	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Pirimiphos-methyl	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Prallethrin	0.004115226	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Prallethrin	0.012345679	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Prallethrin	0.037037037	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Prallethrin	0.111111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Prallethrin	0.333333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Prallethrin	1	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Procymidone	0.411111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Procymidone	1.233333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Procymidone	3.7	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Procymidone	11.1	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Procymidone	33.3	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Procymidone	99.9	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Profenofos	0.041152263	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Profenofos	0.12345679	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Profenofos	0.37037037	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Profenofos	1.111111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Profenofos	3.333333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Profenofos	10	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Progesterone	0.041152263	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Progesterone	0.12345679	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Progesterone	0.37037037	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Progesterone	1.111111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Progesterone	3.333333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Progesterone	10	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Prometon	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Prometon	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Prometon	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Prometon	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Prometon	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Prometon	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Prometryn	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Prometryn	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Prometryn	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Prometryn	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Prometryn	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Prometryn	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Propyzamide	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Propyzamide	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Propyzamide	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Propyzamide	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Propyzamide	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Propyzamide	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Pyraflufen-ethyl	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Pyraflufen-ethyl	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Pyraflufen-ethyl	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Pyraflufen-ethyl	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Pyraflufen-ethyl	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Pyraflufen-ethyl	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Pyrene	0.411111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Pyrene	1.233333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Pyrene	3.7	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Pyrene	11.1	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Pyrene	33.3	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Pyrene	99.9	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Pyriproxyfen	0.041152263	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Pyriproxyfen	0.12345679	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Pyriproxyfen	0.37037037	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Pyriproxyfen	1.111111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Pyriproxyfen	3.333333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Pyriproxyfen	10	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Sethoxydim	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Sethoxydim	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Sethoxydim	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Sethoxydim	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Sethoxydim	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Sethoxydim	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Simazine	0.205761317	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Simazine	0.617283951	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Simazine	1.851851852	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Simazine	5.555555556	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Simazine	16.66666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Simazine	50	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Simvastatin	0.041193416	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Simvastatin	0.123580247	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Simvastatin	0.370740741	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Simvastatin	1.112222222	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Simvastatin	3.336666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Simvastatin	10.01	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Sodium 2-phenylphenate tetrahydrate	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Sodium 2-phenylphenate tetrahydrate	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Sodium 2-phenylphenate tetrahydrate	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Sodium 2-phenylphenate tetrahydrate	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Sodium 2-phenylphenate tetrahydrate	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Sodium 2-phenylphenate tetrahydrate	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Spirodiclofen	0.082304527	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Spirodiclofen	0.24691358	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Spirodiclofen	0.740740741	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Spirodiclofen	2.222222222	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Spirodiclofen	6.666666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Spirodiclofen	20	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Spiroxamine	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Spiroxamine	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Spiroxamine	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Spiroxamine	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Spiroxamine	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Spiroxamine	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	SSR161421	0.411934156	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	SSR161421	1.235802469	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	SSR161421	3.707407407	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	SSR161421	11.12222222	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	SSR161421	33.36666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	SSR161421	100.1	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Tefluthrin	0.041152263	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Tefluthrin	0.12345679	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Tefluthrin	0.37037037	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Tefluthrin	1.111111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Tefluthrin	3.333333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Tefluthrin	10	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Terbutylazine	0.411934156	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Terbutylazine	1.235802469	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Terbutylazine	3.707407407	1
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Terbutylazine	11.12222222	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Terbutylazine	33.36666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Terbutylazine	100.1	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Testosterone propionate	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Testosterone propionate	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Testosterone propionate	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Testosterone propionate	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Testosterone propionate	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Testosterone propionate	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Trelanserin	0.205761317	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Trelanserin	0.617283951	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Trelanserin	1.851851852	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Trelanserin	5.555555556	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Trelanserin	16.66666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Trelanserin	50	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Triamcinolone	0.205761317	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Triamcinolone	0.617283951	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Triamcinolone	1.851851852	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Triamcinolone	5.555555556	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Triamcinolone	16.66666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Triamcinolone	50	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Tridemorph	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Tridemorph	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Tridemorph	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Tridemorph	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Tridemorph	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Tridemorph	100	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Triphenyl phosphate	0.041193416	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Triphenyl phosphate	0.123580247	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Triphenyl phosphate	0.370740741	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Triphenyl phosphate	1.112222222	1
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Triphenyl phosphate	3.336666667	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Triphenyl phosphate	10.01	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Triticonazole	0.041152263	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Triticonazole	0.12345679	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Triticonazole	0.37037037	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Triticonazole	1.111111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Triticonazole	3.333333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Triticonazole	10	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Zenarestat	0.411522634	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Zenarestat	1.234567901	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Zenarestat	3.703703704	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Zenarestat	11.11111111	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Zenarestat	33.33333333	2
+CEETOX_H295R_OHPROG	17alpha-hydroxyprogesterone	Zenarestat	100	2

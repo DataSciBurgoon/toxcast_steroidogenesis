@@ -1,0 +1,947 @@
+assay_component_name,technological_target_type_sub,chnm,conc,count(*)
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,(+/-)-cis-Permethrin,0.411522634,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,(+/-)-cis-Permethrin,1.234567901,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,(+/-)-cis-Permethrin,3.703666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,(+/-)-cis-Permethrin,11.111,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,(+/-)-cis-Permethrin,33.33333333,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,(+/-)-cis-Permethrin,100,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,4-Benzenediamine",0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,4-Benzenediamine",1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,4-Benzenediamine",3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,4-Benzenediamine",11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,4-Benzenediamine",33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,4-Benzenediamine",100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,4-Bis(butylamino)anthracene-9,10-dione",0.020576132,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,4-Bis(butylamino)anthracene-9,10-dione",0.061666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,4-Bis(butylamino)anthracene-9,10-dione",0.185185185,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,4-Bis(butylamino)anthracene-9,10-dione",0.555555556,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,4-Bis(butylamino)anthracene-9,10-dione",1.666666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,4-Bis(butylamino)anthracene-9,10-dione",5,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,4-Diaminoanthraquinone",0.205761317,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,4-Diaminoanthraquinone",0.617283951,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,4-Diaminoanthraquinone",1.851851852,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,4-Diaminoanthraquinone",5.555555556,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,4-Diaminoanthraquinone",16.66666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,4-Diaminoanthraquinone",50,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,4-Dihydroxy-2-naphthoic acid",0.004115226,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,4-Dihydroxy-2-naphthoic acid",0.012345679,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,4-Dihydroxy-2-naphthoic acid",0.037037037,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,4-Dihydroxy-2-naphthoic acid",0.111111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,4-Dihydroxy-2-naphthoic acid",0.333333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,4-Dihydroxy-2-naphthoic acid",1,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,5-Naphthalenediamine",0.041111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,5-Naphthalenediamine",0.123333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,5-Naphthalenediamine",0.37,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,5-Naphthalenediamine",1.11,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,5-Naphthalenediamine",3.33,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,5-Naphthalenediamine",9.99,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,6-Hexanediol diacrylate",0.082304527,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,6-Hexanediol diacrylate",0.24691358,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,6-Hexanediol diacrylate",0.740666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,6-Hexanediol diacrylate",2.222222222,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,6-Hexanediol diacrylate",6.666666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"1,6-Hexanediol diacrylate",20,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,17-Methyltestosterone,0.090534979,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,17-Methyltestosterone,0.271604938,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,17-Methyltestosterone,0.814814815,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,17-Methyltestosterone,2.444444444,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,17-Methyltestosterone,7.333333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,17-Methyltestosterone,22,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Aminoanthraquinone,0.082304527,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Aminoanthraquinone,0.24691358,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Aminoanthraquinone,0.740740741,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Aminoanthraquinone,2.222222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Aminoanthraquinone,6.666666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Aminoanthraquinone,20,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Ethoxy-5-(1-propenyl)phenol,0.411522634,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Ethoxy-5-(1-propenyl)phenol,1.234567901,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Ethoxy-5-(1-propenyl)phenol,3.703666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Ethoxy-5-(1-propenyl)phenol,11.111,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Ethoxy-5-(1-propenyl)phenol,33.33333333,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Ethoxy-5-(1-propenyl)phenol,100,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Hydroxybenzonitrile,0.411666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Hydroxybenzonitrile,1.234666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Hydroxybenzonitrile,3.703666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Hydroxybenzonitrile,11.111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Hydroxybenzonitrile,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Hydroxybenzonitrile,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2-Hydroxyethyl acrylate",0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2-Hydroxyethyl acrylate",1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2-Hydroxyethyl acrylate",3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2-Hydroxyethyl acrylate",11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2-Hydroxyethyl acrylate",33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2-Hydroxyethyl acrylate",100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Methoxy-4-nitroaniline,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Methoxy-4-nitroaniline,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Methoxy-4-nitroaniline,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Methoxy-4-nitroaniline,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Methoxy-4-nitroaniline,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Methoxy-4-nitroaniline,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Methoxy-5-methylaniline,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Methoxy-5-methylaniline,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Methoxy-5-methylaniline,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Methoxy-5-methylaniline,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Methoxy-5-methylaniline,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Methoxy-5-methylaniline,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Naphthylamine,0.411111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Naphthylamine,1.233333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Naphthylamine,3.7,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Naphthylamine,11.1,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Naphthylamine,33.3,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,2-Naphthylamine,99.9,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,2-Dibromo-3-nitrilopropionamide",0.411934156,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,2-Dibromo-3-nitrilopropionamide",1.235802469,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,2-Dibromo-3-nitrilopropionamide",3.707407407,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,2-Dibromo-3-nitrilopropionamide",11.12222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,2-Dibromo-3-nitrilopropionamide",33.36666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,2-Dibromo-3-nitrilopropionamide",100.1,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,2'-Dibenzoylaminodiphenyl disulfide",0.082304527,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,2'-Dibenzoylaminodiphenyl disulfide",0.24691358,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,2'-Dibenzoylaminodiphenyl disulfide",0.740666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,2'-Dibenzoylaminodiphenyl disulfide",2.222222222,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,2'-Dibenzoylaminodiphenyl disulfide",6.666666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,2'-Dibenzoylaminodiphenyl disulfide",20,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,3-Diaminotoluene",0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,3-Diaminotoluene",1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,3-Diaminotoluene",3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,3-Diaminotoluene",11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,3-Diaminotoluene",33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,3-Diaminotoluene",100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,3-Dinitrotoluene",0.058847737,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,3-Dinitrotoluene",0.17654321,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,3-Dinitrotoluene",0.52962963,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,3-Dinitrotoluene",1.588888889,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,3-Dinitrotoluene",4.766666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,3-Dinitrotoluene",14.3,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,4-Dimethylphenol",0.411111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,4-Dimethylphenol",1.233333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,4-Dimethylphenol",3.7,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,4-Dimethylphenol",11.1,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,4-Dimethylphenol",33.3,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,4-Dimethylphenol",99.9,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,4,6-Tribromophenol",0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,4,6-Tribromophenol",1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,4,6-Tribromophenol",3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,4,6-Tribromophenol",11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,4,6-Tribromophenol",33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,4,6-Tribromophenol",100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,4,6-Trichlorophenol",0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,4,6-Trichlorophenol",1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,4,6-Trichlorophenol",11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,4,6-Trichlorophenol",33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,4,6-Trichlorophenol",100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,4,6-Tris(allyloxy)-1,3,5-triazine",0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,4,6-Tris(allyloxy)-1,3,5-triazine",1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,4,6-Tris(allyloxy)-1,3,5-triazine",3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,4,6-Tris(allyloxy)-1,3,5-triazine",11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,4,6-Tris(allyloxy)-1,3,5-triazine",33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,4,6-Tris(allyloxy)-1,3,5-triazine",100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,5-Dichlorophenol",0.411666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,5-Dichlorophenol",1.234666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,5-Dichlorophenol",3.703666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,5-Dichlorophenol",11.111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,5-Dichlorophenol",33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"2,5-Dichlorophenol",100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,3-Hydroxyfluorene,0.411934156,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,3-Hydroxyfluorene,1.235802469,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,3-Hydroxyfluorene,3.707407407,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,3-Hydroxyfluorene,11.12222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,3-Hydroxyfluorene,33.36666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,3-Hydroxyfluorene,100.1,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,3-Isopropylphenol,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,3-Isopropylphenol,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,3-Isopropylphenol,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,3-Isopropylphenol,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,3-Isopropylphenol,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,3-Isopropylphenol,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,3-Phenylphenol,0.082304527,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,3-Phenylphenol,0.24691358,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,3-Phenylphenol,0.740666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,3-Phenylphenol,2.222222222,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,3-Phenylphenol,6.666666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,3-Phenylphenol,20,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,3-tert-Butylphenol,0.411666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,3-tert-Butylphenol,1.234666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,3-tert-Butylphenol,3.703666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,3-tert-Butylphenol,11.111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,3-tert-Butylphenol,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,3-tert-Butylphenol,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3'-Dimethoxybenzidine",0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3'-Dimethoxybenzidine",1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3'-Dimethoxybenzidine",3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3'-Dimethoxybenzidine",11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3'-Dimethoxybenzidine",33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3'-Dimethoxybenzidine",100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3'-Dimethoxybenzidine dihydrochloride",0.082304527,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3'-Dimethoxybenzidine dihydrochloride",0.24691358,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3'-Dimethoxybenzidine dihydrochloride",0.740740741,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3'-Dimethoxybenzidine dihydrochloride",2.222222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3'-Dimethoxybenzidine dihydrochloride",6.666666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3'-Dimethoxybenzidine dihydrochloride",20,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3'-Dimethylbenzidine",0.411111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3'-Dimethylbenzidine",1.233333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3'-Dimethylbenzidine",3.7,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3'-Dimethylbenzidine",11.1,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3'-Dimethylbenzidine",33.3,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3'-Dimethylbenzidine",99.9,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3'-Dimethylbenzidine dihydrochloride",0.082304527,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3'-Dimethylbenzidine dihydrochloride",0.24691358,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3'-Dimethylbenzidine dihydrochloride",0.740740741,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3'-Dimethylbenzidine dihydrochloride",2.222222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3'-Dimethylbenzidine dihydrochloride",6.666666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3'-Dimethylbenzidine dihydrochloride",20,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3',5,5'-Tetrabromobisphenol A",0.041193416,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3',5,5'-Tetrabromobisphenol A",0.123580247,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3',5,5'-Tetrabromobisphenol A",0.370740741,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3',5,5'-Tetrabromobisphenol A",1.112222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3',5,5'-Tetrabromobisphenol A",3.336666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,3',5,5'-Tetrabromobisphenol A",10.01,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,4-Diaminotoluene",0.041111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,4-Diaminotoluene",0.123333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,4-Diaminotoluene",0.37,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,4-Diaminotoluene",1.11,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,4-Diaminotoluene",3.33,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,4-Diaminotoluene",9.99,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,4-Dichloroaniline",0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,4-Dichloroaniline",1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,4-Dichloroaniline",3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,4-Dichloroaniline",11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,4-Dichloroaniline",33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,4-Dichloroaniline",100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,4-Dinitrotoluene",0.082304527,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,4-Dinitrotoluene",0.24691358,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,4-Dinitrotoluene",0.740666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,4-Dinitrotoluene",2.222222222,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,4-Dinitrotoluene",6.666666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"3,4-Dinitrotoluene",20,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-(2-Phenylpropan-2-yl)-N-[4-(2-phenylpropan-2-yl)phenyl]aniline,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-(2-Phenylpropan-2-yl)-N-[4-(2-phenylpropan-2-yl)phenyl]aniline,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-(2-Phenylpropan-2-yl)-N-[4-(2-phenylpropan-2-yl)phenyl]aniline,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-(2-Phenylpropan-2-yl)-N-[4-(2-phenylpropan-2-yl)phenyl]aniline,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-(2-Phenylpropan-2-yl)-N-[4-(2-phenylpropan-2-yl)phenyl]aniline,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-(2-Phenylpropan-2-yl)-N-[4-(2-phenylpropan-2-yl)phenyl]aniline,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-(Butan-2-yl)phenol,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-(Butan-2-yl)phenol,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-(Butan-2-yl)phenol,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-(Butan-2-yl)phenol,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-(Butan-2-yl)phenol,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-(Butan-2-yl)phenol,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4-Androstene-3,17-dione",0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4-Androstene-3,17-dione",1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4-Androstene-3,17-dione",3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4-Androstene-3,17-dione",11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4-Androstene-3,17-dione",33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4-Androstene-3,17-dione",100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4-Chloro-1,2-diaminobenzene",0.041193416,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4-Chloro-1,2-diaminobenzene",0.123580247,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4-Chloro-1,2-diaminobenzene",0.370740741,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4-Chloro-1,2-diaminobenzene",1.112222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4-Chloro-1,2-diaminobenzene",3.336666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4-Chloro-1,2-diaminobenzene",10.01,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Chloro-2-methylphenol,0.411666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Chloro-2-methylphenol,1.234666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Chloro-2-methylphenol,3.703666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Chloro-2-methylphenol,11.111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Chloro-2-methylphenol,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Chloro-2-methylphenol,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Chloro-3-methylphenol,0.412,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Chloro-3-methylphenol,1.235666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Chloro-3-methylphenol,3.707333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Chloro-3-methylphenol,11.12233333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Chloro-3-methylphenol,33.36666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Chloro-3-methylphenol,100.1,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Chloroaniline,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Chloroaniline,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Chloroaniline,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Chloroaniline,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Chloroaniline,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Chloroaniline,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Fluoro-3-nitroaniline,0.411522634,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Fluoro-3-nitroaniline,1.234567901,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Fluoro-3-nitroaniline,3.703666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Fluoro-3-nitroaniline,11.111,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Fluoro-3-nitroaniline,33.33333333,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Fluoro-3-nitroaniline,100,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Iodophenol,0.411522634,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Iodophenol,1.234567901,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Iodophenol,3.703666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Iodophenol,11.111,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Iodophenol,33.33333333,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Iodophenol,100,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Nitrophenol,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Nitrophenol,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Nitrophenol,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Nitrophenol,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Nitrophenol,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,4-Nitrophenol,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4,4'-Methylenebis(N,N-dimethylaniline)",0.123333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4,4'-Methylenebis(N,N-dimethylaniline)",0.37,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4,4'-Methylenebis(N,N-dimethylaniline)",1.11,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4,4'-Methylenebis(N,N-dimethylaniline)",3.33,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4,4'-Methylenebis(N,N-dimethylaniline)",9.99,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4,4'-Sulfonylbis[2-(prop-2-en-1-yl)phenol]",0.082304527,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4,4'-Sulfonylbis[2-(prop-2-en-1-yl)phenol]",0.24691358,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4,4'-Sulfonylbis[2-(prop-2-en-1-yl)phenol]",0.740740741,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4,4'-Sulfonylbis[2-(prop-2-en-1-yl)phenol]",2.222222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4,4'-Sulfonylbis[2-(prop-2-en-1-yl)phenol]",6.666666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4,4'-Sulfonylbis[2-(prop-2-en-1-yl)phenol]",20,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4,4'-Sulfonyldiphenol",0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4,4'-Sulfonyldiphenol",1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4,4'-Sulfonyldiphenol",3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4,4'-Sulfonyldiphenol",11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4,4'-Sulfonyldiphenol",33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"4,4'-Sulfonyldiphenol",100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,5-Amino-2-methylphenol,0.411111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,5-Amino-2-methylphenol,1.233333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,5-Amino-2-methylphenol,3.7,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,5-Amino-2-methylphenol,11.1,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,5-Amino-2-methylphenol,33.3,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,5-Amino-2-methylphenol,99.9,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,5-Heptyldihydro-2(3H)-furanone,0.411111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,5-Heptyldihydro-2(3H)-furanone,1.233333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,5-Heptyldihydro-2(3H)-furanone,3.7,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,5-Heptyldihydro-2(3H)-furanone,11.1,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,5-Heptyldihydro-2(3H)-furanone,33.3,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,5-Heptyldihydro-2(3H)-furanone,99.9,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,5alpha-Dihydrotestosterone,0.082304527,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,5alpha-Dihydrotestosterone,0.24691358,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,5alpha-Dihydrotestosterone,0.740740741,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,5alpha-Dihydrotestosterone,2.222222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,5alpha-Dihydrotestosterone,6.666666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,5alpha-Dihydrotestosterone,20,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Acid Orange 156",0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Acid Orange 156",1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Acid Orange 156",3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Acid Orange 156",11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Acid Orange 156",33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Acid Orange 156",100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"all-trans-Retinoic acid",0.041193416,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"all-trans-Retinoic acid",0.123580247,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"all-trans-Retinoic acid",0.370740741,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"all-trans-Retinoic acid",1.112222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"all-trans-Retinoic acid",3.336666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"all-trans-Retinoic acid",10.01,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ametryn,0.411522634,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ametryn,1.234567901,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ametryn,3.703703704,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ametryn,11.11111111,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ametryn,33.33333333,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ametryn,100,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Androsterone,0.041,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Androsterone,0.123333333,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Androsterone,0.370333333,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Androsterone,1.111,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Androsterone,3.333333333,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Androsterone,10,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Anilazine,0.041152263,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Anilazine,0.12345679,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Anilazine,0.37037037,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Anilazine,1.111111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Anilazine,3.333333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Anilazine,10,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Apigenin,0.041152263,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Apigenin,0.12345679,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Apigenin,0.37037037,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Apigenin,1.111111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Apigenin,3.333333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Apigenin,10,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Atrazine,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Atrazine,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Atrazine,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Atrazine,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Atrazine,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Atrazine,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,AVE8488,0.082304527,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,AVE8488,0.24691358,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,AVE8488,0.740740741,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,AVE8488,2.222222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,AVE8488,6.666666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,AVE8488,20,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Azinphos-ethyl,0.082304527,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Azinphos-ethyl,0.24691358,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Azinphos-ethyl,0.740666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Azinphos-ethyl,2.222222222,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Azinphos-ethyl,6.666666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Azinphos-ethyl,20,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Azinphos-methyl,0.041152263,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Azinphos-methyl,0.12345679,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Azinphos-methyl,0.37037037,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Azinphos-methyl,1.111111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Azinphos-methyl,3.333333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Azinphos-methyl,10,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Bendiocarb,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Bendiocarb,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Bendiocarb,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Bendiocarb,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Bendiocarb,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Bendiocarb,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Benz(a)anthracene,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Benz(a)anthracene,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Benz(a)anthracene,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Benz(a)anthracene,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Benz(a)anthracene,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Benz(a)anthracene,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Benzidine,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Benzidine,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Benzidine,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Benzidine,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Benzidine,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Benzidine,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Besonprodil,0.082304527,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Besonprodil,0.24691358,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Besonprodil,0.740740741,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Besonprodil,2.222222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Besonprodil,6.666666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Besonprodil,20,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Bifenthrin,0.041152263,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Bifenthrin,0.12345679,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Bifenthrin,0.37037037,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Bifenthrin,1.111111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Bifenthrin,3.333333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Bifenthrin,10,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Butralin,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Butralin,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Butralin,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Butralin,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Butralin,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Butralin,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Butylparaben,0.041,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Butylparaben,0.123333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Butylparaben,0.370333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Butylparaben,1.111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Butylparaben,3.333333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Butylparaben,10,1
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"C.I. Disperse Yellow 3",0.205666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"C.I. Disperse Yellow 3",0.617283951,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"C.I. Disperse Yellow 3",1.851851852,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"C.I. Disperse Yellow 3",5.555555556,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"C.I. Disperse Yellow 3",16.66666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"C.I. Disperse Yellow 3",50,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"C.I. Solvent Yellow 14",0.205761317,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"C.I. Solvent Yellow 14",0.617283951,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"C.I. Solvent Yellow 14",1.851851852,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"C.I. Solvent Yellow 14",5.555555556,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"C.I. Solvent Yellow 14",16.66666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"C.I. Solvent Yellow 14",50,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Carfentrazone-ethyl,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Carfentrazone-ethyl,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Carfentrazone-ethyl,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Carfentrazone-ethyl,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Carfentrazone-ethyl,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Carfentrazone-ethyl,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Chlorpyrifos,0.411934156,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Chlorpyrifos,1.235802469,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Chlorpyrifos,3.707407407,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Chlorpyrifos,11.12222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Chlorpyrifos,33.36666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Chlorpyrifos,100.1,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Chrysin,0.205761317,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Chrysin,0.617283951,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Chrysin,1.851851852,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Chrysin,5.555555556,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Chrysin,16.66666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Chrysin,50,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CI-1018,0.411111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CI-1018,1.233333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CI-1018,3.7,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CI-1018,11.1,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CI-1018,33.3,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CI-1018,99.9,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CI-1044,0.411934156,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CI-1044,1.235666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CI-1044,3.707333333,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CI-1044,11.12222222,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CI-1044,33.36666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CI-1044,100.1,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Clodinafop-propargyl,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Clodinafop-propargyl,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Clodinafop-propargyl,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Clodinafop-propargyl,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Clodinafop-propargyl,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Clodinafop-propargyl,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Cloquintocet-mexyl,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Cloquintocet-mexyl,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Cloquintocet-mexyl,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Cloquintocet-mexyl,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Cloquintocet-mexyl,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Cloquintocet-mexyl,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Clorophene,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Clorophene,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Clorophene,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Clorophene,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Clorophene,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Clorophene,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Coumaphos,0.041152263,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Coumaphos,0.12345679,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Coumaphos,0.37037037,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Coumaphos,1.111111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Coumaphos,3.333333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Coumaphos,10,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-401387,0.041152263,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-401387,0.12345679,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-401387,0.37037037,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-401387,1.111111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-401387,3.333333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-401387,10,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-422935,0.411934156,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-422935,1.235802469,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-422935,3.707407407,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-422935,11.12222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-422935,33.36666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-422935,100.1,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-456773,0.411934156,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-456773,1.235802469,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-456773,3.707407407,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-456773,11.12222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-456773,33.36666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-456773,100.1,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-457920,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-457920,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-457920,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-457920,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-457920,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-457920,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-634384,0.411111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-634384,1.233333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-634384,3.7,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-634384,11.1,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-634384,33.3,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-634384,99.9,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-642931,0.041152263,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-642931,0.12345679,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-642931,0.37037037,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-642931,1.111111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-642931,3.333333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,CP-642931,10,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Dapsone,0.411934156,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Dapsone,1.235802469,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Dapsone,3.707407407,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Dapsone,11.12222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Dapsone,33.36666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Dapsone,100.1,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Darbufelone mesylate",0.008230453,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Darbufelone mesylate",0.024691358,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Darbufelone mesylate",0.074074074,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Darbufelone mesylate",0.222222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Darbufelone mesylate",0.666666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Darbufelone mesylate",2,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Dehydroepiandrosterone,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Dehydroepiandrosterone,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Dehydroepiandrosterone,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Dehydroepiandrosterone,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Dehydroepiandrosterone,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Dehydroepiandrosterone,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Dexamethasone sodium phosphate",0.038666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Dexamethasone sodium phosphate",0.116,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Dexamethasone sodium phosphate",0.348,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Dexamethasone sodium phosphate",1.044333333,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Dexamethasone sodium phosphate",3.133333333,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Dexamethasone sodium phosphate",9.4,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Diazinon,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Diazinon,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Diazinon,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Diazinon,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Diazinon,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Diazinon,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Dimethipin,0.041193416,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Dimethipin,0.123580247,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Dimethipin,0.370740741,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Dimethipin,1.112222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Dimethipin,3.336666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Dimethipin,10.01,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Diniconazole,0.004115226,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Diniconazole,0.012345679,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Diniconazole,0.037037037,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Diniconazole,0.111111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Diniconazole,0.333333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Diniconazole,1,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Disulfoton sulfone",0.411522634,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Disulfoton sulfone",1.234567901,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Disulfoton sulfone",3.703666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Disulfoton sulfone",11.111,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Disulfoton sulfone",33.33333333,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Disulfoton sulfone",100,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,EPN,0.041152263,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,EPN,0.12345679,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,EPN,0.37037037,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,EPN,1.111111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,EPN,3.333333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,EPN,10,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Epoxiconazole,0.082304527,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Epoxiconazole,0.24691358,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Epoxiconazole,0.740740741,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Epoxiconazole,2.222222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Epoxiconazole,6.666666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Epoxiconazole,20,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ethion,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ethion,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ethion,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ethion,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ethion,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ethion,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ethoxyquin,0.411111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ethoxyquin,1.233333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ethoxyquin,3.7,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ethoxyquin,11.1,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ethoxyquin,33.3,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ethoxyquin,99.9,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ethylparaben,0.411111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ethylparaben,1.233333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ethylparaben,3.7,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ethylparaben,11.1,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ethylparaben,33.3,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ethylparaben,99.9,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fenbuconazole,0.004115226,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fenbuconazole,0.012345679,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fenbuconazole,0.037037037,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fenbuconazole,0.111111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fenbuconazole,0.333333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fenbuconazole,1,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fenitrothion,0.041152263,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fenitrothion,0.12345679,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fenitrothion,0.37037037,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fenitrothion,1.111111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fenitrothion,3.333333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fenitrothion,10,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fenoxaprop-P-ethyl,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fenoxaprop-P-ethyl,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fenoxaprop-P-ethyl,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fenoxaprop-P-ethyl,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fenoxaprop-P-ethyl,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fenoxaprop-P-ethyl,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fenthion,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fenthion,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fenthion,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fenthion,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fenthion,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fenthion,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fluazifop-P-butyl,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fluazifop-P-butyl,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fluazifop-P-butyl,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fluazifop-P-butyl,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fluazifop-P-butyl,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Fluazifop-P-butyl,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Flumetralin,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Flumetralin,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Flumetralin,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Flumetralin,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Flumetralin,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Flumetralin,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Flumiclorac-pentyl,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Flumiclorac-pentyl,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Flumiclorac-pentyl,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Flumiclorac-pentyl,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Flumiclorac-pentyl,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Flumiclorac-pentyl,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Flumioxazin,0.041152263,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Flumioxazin,0.12345679,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Flumioxazin,0.37037037,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Flumioxazin,1.111111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Flumioxazin,3.333333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Flumioxazin,10,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Formetanate hydrochloride",0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Formetanate hydrochloride",1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Formetanate hydrochloride",3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Formetanate hydrochloride",11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Formetanate hydrochloride",33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Formetanate hydrochloride",100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,FR130739,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,FR130739,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,FR130739,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,FR130739,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,FR130739,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,FR130739,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Hydroquinone,0.041193416,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Hydroquinone,0.123580247,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Hydroquinone,0.370740741,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Hydroquinone,1.112222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Hydroquinone,3.336666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Hydroquinone,10.01,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Imazalil,0.004115226,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Imazalil,0.012345679,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Imazalil,0.037037037,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Imazalil,0.111111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Imazalil,0.333333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Imazalil,1,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Isazofos,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Isazofos,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Isazofos,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Isazofos,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Isazofos,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Isazofos,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Isofenphos,0.082304527,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Isofenphos,0.24691358,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Isofenphos,0.740666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Isofenphos,2.222222222,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Isofenphos,6.666666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Isofenphos,20,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ketoconazole,0.008230453,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ketoconazole,0.024691358,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ketoconazole,0.074074074,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ketoconazole,0.222222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ketoconazole,0.666666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Ketoconazole,2,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Malathion,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Malathion,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Malathion,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Malathion,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Malathion,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Malathion,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Mancozeb,0.041152263,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Mancozeb,0.12345679,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Mancozeb,0.37037037,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Mancozeb,1.111111111,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Mancozeb,3.333333333,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Mancozeb,10,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Melatonin,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Melatonin,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Melatonin,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Melatonin,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Melatonin,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Melatonin,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Methidathion,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Methidathion,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Methidathion,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Methidathion,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Methidathion,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Methidathion,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Methyl parathion",0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Methyl parathion",1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Methyl parathion",3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Methyl parathion",11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Methyl parathion",33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Methyl parathion",100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Methylene blue",0.008230453,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Methylene blue",0.024691358,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Methylene blue",0.074074074,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Methylene blue",0.222222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Methylene blue",0.666666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Methylene blue",2,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Methylparaben,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Methylparaben,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Methylparaben,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Methylparaben,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Methylparaben,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Methylparaben,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Mifepristone,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Mifepristone,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Mifepristone,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Mifepristone,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Mifepristone,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Mifepristone,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,N-Benzyladenine,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,N-Benzyladenine,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,N-Benzyladenine,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,N-Benzyladenine,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,N-Benzyladenine,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,N-Benzyladenine,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"N-Phenyl-1,4-benzenediamine",0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"N-Phenyl-1,4-benzenediamine",1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"N-Phenyl-1,4-benzenediamine",3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"N-Phenyl-1,4-benzenediamine",11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"N-Phenyl-1,4-benzenediamine",33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"N-Phenyl-1,4-benzenediamine",100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,N-Phenyl-2-naphthylamine,0.082304527,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,N-Phenyl-2-naphthylamine,0.24691358,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,N-Phenyl-2-naphthylamine,0.740666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,N-Phenyl-2-naphthylamine,2.222222222,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,N-Phenyl-2-naphthylamine,6.666666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,N-Phenyl-2-naphthylamine,20,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Napropamide,0.041152263,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Napropamide,0.12345679,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Napropamide,0.37037037,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Napropamide,1.111111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Napropamide,3.333333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Napropamide,10,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Nelivaptan,0.082304527,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Nelivaptan,0.24691358,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Nelivaptan,0.740740741,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Nelivaptan,2.222222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Nelivaptan,6.666666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Nelivaptan,20,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Nitrofen,0.041193416,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Nitrofen,0.123580247,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Nitrofen,0.370740741,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Nitrofen,1.112222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Nitrofen,3.336666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Nitrofen,10.01,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Nordihydroguaiaretic acid",0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Nordihydroguaiaretic acid",1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Nordihydroguaiaretic acid",3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Nordihydroguaiaretic acid",11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Nordihydroguaiaretic acid",33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Nordihydroguaiaretic acid",100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Octyl gallate",0.041193416,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Octyl gallate",0.123580247,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Octyl gallate",0.370740741,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Octyl gallate",1.112222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Octyl gallate",3.336666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Octyl gallate",10.01,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,p-Cresol,0.411111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,p-Cresol,1.233333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,p-Cresol,3.7,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,p-Cresol,11.1,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,p-Cresol,33.3,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,p-Cresol,99.9,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Parathion,0.041152263,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Parathion,0.12345679,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Parathion,0.37037037,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Parathion,1.111111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Parathion,3.333333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Parathion,10,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Phenolphthalein,0.041193416,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Phenolphthalein,0.123580247,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Phenolphthalein,0.370740741,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Phenolphthalein,1.112222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Phenolphthalein,3.336666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Phenolphthalein,10.01,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Phenolphthalin,0.205761317,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Phenolphthalin,0.617283951,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Phenolphthalin,1.851851852,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Phenolphthalin,5.555555556,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Phenolphthalin,16.66666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Phenolphthalin,50,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Phosalone,0.041152263,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Phosalone,0.12345679,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Phosalone,0.37037037,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Phosalone,1.111111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Phosalone,3.333333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Phosalone,10,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Phosmet,0.411,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Phosmet,1.233333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Phosmet,3.7,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Phosmet,11.1,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Phosmet,33.3,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Phosmet,99.9,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Pirimiphos-methyl,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Pirimiphos-methyl,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Pirimiphos-methyl,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Pirimiphos-methyl,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Pirimiphos-methyl,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Pirimiphos-methyl,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Prochloraz,0.004115226,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Prochloraz,0.012345679,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Prochloraz,0.037037037,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Prochloraz,0.111111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Prochloraz,0.333333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Prochloraz,1,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Profenofos,0.041152263,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Profenofos,0.12345679,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Profenofos,0.37037037,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Profenofos,1.111111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Profenofos,3.333333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Profenofos,10,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Progesterone,0.041152263,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Progesterone,0.12345679,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Progesterone,0.37037037,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Progesterone,1.111111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Progesterone,3.333333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Progesterone,10,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Propanil,0.041152263,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Propanil,0.12345679,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Propanil,0.37037037,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Propanil,1.111111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Propanil,3.333333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Propanil,10,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Propetamphos,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Propetamphos,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Propetamphos,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Propetamphos,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Propetamphos,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Propetamphos,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Propylparaben,0.411934156,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Propylparaben,1.235802469,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Propylparaben,3.707407407,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Propylparaben,11.12222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Propylparaben,33.36666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Propylparaben,100.1,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Prothioconazole,0.082304527,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Prothioconazole,0.24691358,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Prothioconazole,0.740666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Prothioconazole,2.222222222,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Prothioconazole,6.666666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Prothioconazole,20,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Pyraflufen-ethyl,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Pyraflufen-ethyl,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Pyraflufen-ethyl,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Pyraflufen-ethyl,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Pyraflufen-ethyl,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Pyraflufen-ethyl,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Resorcinol,0.411666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Resorcinol,1.234666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Resorcinol,3.703666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Resorcinol,11.111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Resorcinol,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Resorcinol,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,SAR115740,0.041152263,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,SAR115740,0.12345679,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,SAR115740,0.37037037,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,SAR115740,1.111111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,SAR115740,3.333333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,SAR115740,10,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Simazine,0.205761317,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Simazine,0.617283951,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Simazine,1.851851852,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Simazine,5.555555556,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Simazine,16.66666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Simazine,50,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Sodium 2-phenylphenate tetrahydrate",0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Sodium 2-phenylphenate tetrahydrate",1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Sodium 2-phenylphenate tetrahydrate",3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Sodium 2-phenylphenate tetrahydrate",11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Sodium 2-phenylphenate tetrahydrate",33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Sodium 2-phenylphenate tetrahydrate",100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Spironolactone,0.041193416,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Spironolactone,0.123580247,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Spironolactone,0.370740741,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Spironolactone,1.112222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Spironolactone,3.336666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Spironolactone,10.01,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,SSR161421,0.411934156,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,SSR161421,1.235802469,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,SSR161421,3.707407407,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,SSR161421,11.12222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,SSR161421,33.36666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,SSR161421,100.1,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Sulprofos,0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Sulprofos,1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Sulprofos,3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Sulprofos,11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Sulprofos,33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Sulprofos,100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Testosterone propionate",0.411522634,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Testosterone propionate",1.234567901,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Testosterone propionate",3.703703704,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Testosterone propionate",11.11111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Testosterone propionate",33.33333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Testosterone propionate",100,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Tri-o-cresyl phosphate",0.008230453,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Tri-o-cresyl phosphate",0.024666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Tri-o-cresyl phosphate",0.074,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Tri-o-cresyl phosphate",0.222222222,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Tri-o-cresyl phosphate",0.666666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Tri-o-cresyl phosphate",2,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Triamcinolone,0.205761317,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Triamcinolone,0.617283951,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Triamcinolone,1.851851852,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Triamcinolone,5.555555556,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Triamcinolone,16.66666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Triamcinolone,50,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Triflumizole,0.004115226,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Triflumizole,0.012345679,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Triflumizole,0.037037037,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Triflumizole,0.111111111,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Triflumizole,0.333333333,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,Triflumizole,1,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,UK-156819,0.082304527,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,UK-156819,0.24691358,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,UK-156819,0.740740741,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,UK-156819,2.222222222,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,UK-156819,6.666666667,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,UK-156819,20,2
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Vatalanib dihydrochloride",0.034567901,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Vatalanib dihydrochloride",0.103666667,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Vatalanib dihydrochloride",0.311,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Vatalanib dihydrochloride",0.933333333,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Vatalanib dihydrochloride",2.8,4
+CEETOX_H295R_OHPREG,17alpha-hydroxypregnenolone,"Vatalanib dihydrochloride",8.4,4

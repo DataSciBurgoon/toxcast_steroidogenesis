@@ -1,0 +1,1044 @@
+assay_component_name	technological_target_type_sub	chnm	conc	count(*)
+CEETOX_H295R_ESTRADIOL	Estradiol	1-(Bromomethyl)-3-phenoxybenzene	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1-(Bromomethyl)-3-phenoxybenzene	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1-(Bromomethyl)-3-phenoxybenzene	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1-(Bromomethyl)-3-phenoxybenzene	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1-(Bromomethyl)-3-phenoxybenzene	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1-(Bromomethyl)-3-phenoxybenzene	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1-Chloroanthraquinone	0.044	4
+CEETOX_H295R_ESTRADIOL	Estradiol	1-Chloroanthraquinone	0.132	4
+CEETOX_H295R_ESTRADIOL	Estradiol	1-Chloroanthraquinone	0.396296296	4
+CEETOX_H295R_ESTRADIOL	Estradiol	1-Chloroanthraquinone	1.188888889	4
+CEETOX_H295R_ESTRADIOL	Estradiol	1-Chloroanthraquinone	3.566666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	1-Chloroanthraquinone	10.7	4
+CEETOX_H295R_ESTRADIOL	Estradiol	1-Methyl-3-phenyl-5-(3-(trifluoromethyl)phenyl)-4-pyridone	0.412	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1-Methyl-3-phenyl-5-(3-(trifluoromethyl)phenyl)-4-pyridone	1.235666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1-Methyl-3-phenyl-5-(3-(trifluoromethyl)phenyl)-4-pyridone	3.707333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1-Methyl-3-phenyl-5-(3-(trifluoromethyl)phenyl)-4-pyridone	11.12233333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1-Methyl-3-phenyl-5-(3-(trifluoromethyl)phenyl)-4-pyridone	33.36666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1-Methyl-3-phenyl-5-(3-(trifluoromethyl)phenyl)-4-pyridone	100.1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,​2-​Benzenediol	0.041333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,​2-​Benzenediol	0.123666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,​2-​Benzenediol	0.370666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,​2-​Benzenediol	1.112333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,​2-​Benzenediol	3.336666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,​2-​Benzenediol	10.01	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,2-Phenylenediamine	0.041152263	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,2-Phenylenediamine	0.12345679	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,2-Phenylenediamine	0.37037037	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,2-Phenylenediamine	1.111111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,2-Phenylenediamine	3.333333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,2-Phenylenediamine	10	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,3-Dichloro-6,7,8,9,10,12-hexahydroazepino[2,1-b]quinazoline hydrochloride (1:1)	0.041152263	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,3-Dichloro-6,7,8,9,10,12-hexahydroazepino[2,1-b]quinazoline hydrochloride (1:1)	0.12345679	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,3-Dichloro-6,7,8,9,10,12-hexahydroazepino[2,1-b]quinazoline hydrochloride (1:1)	0.37037037	1
+CEETOX_H295R_ESTRADIOL	Estradiol	1,3-Dichloro-6,7,8,9,10,12-hexahydroazepino[2,1-b]quinazoline hydrochloride (1:1)	1.111111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,3-Dichloro-6,7,8,9,10,12-hexahydroazepino[2,1-b]quinazoline hydrochloride (1:1)	3.333333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,3-Dichloro-6,7,8,9,10,12-hexahydroazepino[2,1-b]quinazoline hydrochloride (1:1)	10	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,4-Benzenediamine	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,4-Benzenediamine	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,4-Benzenediamine	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,4-Benzenediamine	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,4-Benzenediamine	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,4-Benzenediamine	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,4-Diaminoanthraquinone	0.205761317	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,4-Diaminoanthraquinone	0.617283951	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,4-Diaminoanthraquinone	1.851851852	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,4-Diaminoanthraquinone	5.555555556	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,4-Diaminoanthraquinone	16.66666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,4-Diaminoanthraquinone	50	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,5-Naphthalenediamine	0.041111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,5-Naphthalenediamine	0.123333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,5-Naphthalenediamine	0.37	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,5-Naphthalenediamine	1.11	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,5-Naphthalenediamine	3.33	2
+CEETOX_H295R_ESTRADIOL	Estradiol	1,5-Naphthalenediamine	9.99	2
+CEETOX_H295R_ESTRADIOL	Estradiol	10-Undecenoic acid	0.411934156	2
+CEETOX_H295R_ESTRADIOL	Estradiol	10-Undecenoic acid	1.235802469	2
+CEETOX_H295R_ESTRADIOL	Estradiol	10-Undecenoic acid	3.707407407	2
+CEETOX_H295R_ESTRADIOL	Estradiol	10-Undecenoic acid	11.12222222	2
+CEETOX_H295R_ESTRADIOL	Estradiol	10-Undecenoic acid	33.36666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	10-Undecenoic acid	100.1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	17alpha-Estradiol	0.041193416	3
+CEETOX_H295R_ESTRADIOL	Estradiol	17alpha-Estradiol	0.123580247	4
+CEETOX_H295R_ESTRADIOL	Estradiol	17alpha-Estradiol	0.370666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	17alpha-Estradiol	1.112222222	4
+CEETOX_H295R_ESTRADIOL	Estradiol	17alpha-Estradiol	3.336666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	17alpha-Estradiol	10.01	4
+CEETOX_H295R_ESTRADIOL	Estradiol	17alpha-Ethinylestradiol	0.004115226	2
+CEETOX_H295R_ESTRADIOL	Estradiol	17alpha-Ethinylestradiol	0.012345679	2
+CEETOX_H295R_ESTRADIOL	Estradiol	17alpha-Ethinylestradiol	0.037037037	2
+CEETOX_H295R_ESTRADIOL	Estradiol	17alpha-Ethinylestradiol	0.111111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	17alpha-Ethinylestradiol	0.333333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	17alpha-Ethinylestradiol	1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	17beta-Estradiol	0.041	4
+CEETOX_H295R_ESTRADIOL	Estradiol	17beta-Estradiol	0.123333333	4
+CEETOX_H295R_ESTRADIOL	Estradiol	17beta-Estradiol	0.37	4
+CEETOX_H295R_ESTRADIOL	Estradiol	17beta-Estradiol	1.11	4
+CEETOX_H295R_ESTRADIOL	Estradiol	17beta-Estradiol	3.33	4
+CEETOX_H295R_ESTRADIOL	Estradiol	17beta-Estradiol	9.99	4
+CEETOX_H295R_ESTRADIOL	Estradiol	2-(3-Phenylpropyl)pyridine	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-(3-Phenylpropyl)pyridine	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-(3-Phenylpropyl)pyridine	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-(3-Phenylpropyl)pyridine	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-(3-Phenylpropyl)pyridine	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-(3-Phenylpropyl)pyridine	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Aminoanthraquinone	0.082304527	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Aminoanthraquinone	0.24691358	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Aminoanthraquinone	0.740740741	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Aminoanthraquinone	2.222222222	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Aminoanthraquinone	6.666666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Aminoanthraquinone	20	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Ethoxy-5-(1-propenyl)phenol	0.411522634	4
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Ethoxy-5-(1-propenyl)phenol	1.234567901	4
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Ethoxy-5-(1-propenyl)phenol	3.703666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Ethoxy-5-(1-propenyl)phenol	11.111	4
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Ethoxy-5-(1-propenyl)phenol	33.33333333	4
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Ethoxy-5-(1-propenyl)phenol	100	4
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Hydroxy-4-methoxybenzophenone	0.205761317	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Hydroxy-4-methoxybenzophenone	0.617283951	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Hydroxy-4-methoxybenzophenone	1.851851852	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Hydroxy-4-methoxybenzophenone	5.555555556	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Hydroxy-4-methoxybenzophenone	16.66666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Hydroxy-4-methoxybenzophenone	50	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Naphthalenol	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Naphthalenol	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Naphthalenol	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Naphthalenol	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Naphthalenol	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Naphthalenol	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Naphthylamine	0.411111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Naphthylamine	1.233333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Naphthylamine	3.7	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Naphthylamine	11.1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Naphthylamine	33.3	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Naphthylamine	99.9	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Phenylphenol	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Phenylphenol	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Phenylphenol	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Phenylphenol	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Phenylphenol	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2-Phenylphenol	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,2-Bis(4-hydroxyphenyl)-1,1,1-trichloroethane	0.082304527	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,2-Bis(4-hydroxyphenyl)-1,1,1-trichloroethane	0.24691358	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,2-Bis(4-hydroxyphenyl)-1,1,1-trichloroethane	0.740740741	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,2-Bis(4-hydroxyphenyl)-1,1,1-trichloroethane	2.222222222	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,2-Bis(4-hydroxyphenyl)-1,1,1-trichloroethane	6.666666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,2-Bis(4-hydroxyphenyl)-1,1,1-trichloroethane	20	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,2'-Dibenzoylaminodiphenyl disulfide	0.082304527	4
+CEETOX_H295R_ESTRADIOL	Estradiol	2,2'-Dibenzoylaminodiphenyl disulfide	0.24691358	4
+CEETOX_H295R_ESTRADIOL	Estradiol	2,2'-Dibenzoylaminodiphenyl disulfide	0.740666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	2,2'-Dibenzoylaminodiphenyl disulfide	2.222222222	4
+CEETOX_H295R_ESTRADIOL	Estradiol	2,2'-Dibenzoylaminodiphenyl disulfide	6.666666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	2,2'-Dibenzoylaminodiphenyl disulfide	20	4
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4-D Butyl ester	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4-D Butyl ester	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4-D Butyl ester	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4-D Butyl ester	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4-D Butyl ester	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4-D Butyl ester	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4-Dichlorophenol	0.411111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4-Dichlorophenol	1.233333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4-Dichlorophenol	3.7	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4-Dichlorophenol	11.1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4-Dichlorophenol	33.3	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4-Dichlorophenol	99.9	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4-Dimethylphenol	0.411111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4-Dimethylphenol	1.233333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4-Dimethylphenol	3.7	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4-Dimethylphenol	11.1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4-Dimethylphenol	33.3	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4-Dimethylphenol	99.9	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4,6-Tribromophenol	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4,6-Tribromophenol	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4,6-Tribromophenol	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4,6-Tribromophenol	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4,6-Tribromophenol	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4,6-Tribromophenol	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4,6-Trichlorophenol	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4,6-Trichlorophenol	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4,6-Trichlorophenol	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4,6-Trichlorophenol	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4,6-Trichlorophenol	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4,6-Tris(allyloxy)-1,3,5-triazine	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4,6-Tris(allyloxy)-1,3,5-triazine	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4,6-Tris(allyloxy)-1,3,5-triazine	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4,6-Tris(allyloxy)-1,3,5-triazine	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4,6-Tris(allyloxy)-1,3,5-triazine	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,4,6-Tris(allyloxy)-1,3,5-triazine	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,6-Dinitrotoluene	0.411111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,6-Dinitrotoluene	1.233333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,6-Dinitrotoluene	3.7	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,6-Dinitrotoluene	11.1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,6-Dinitrotoluene	33.3	2
+CEETOX_H295R_ESTRADIOL	Estradiol	2,6-Dinitrotoluene	99.9	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Methoxyphenol	0.411522634	4
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Methoxyphenol	1.234567901	4
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Methoxyphenol	3.703666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Methoxyphenol	11.111	4
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Methoxyphenol	33.33333333	4
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Methoxyphenol	100	4
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Methyl-4-(methylthio)phenol	0.411522634	4
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Methyl-4-(methylthio)phenol	1.234567901	4
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Methyl-4-(methylthio)phenol	3.703666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Methyl-4-(methylthio)phenol	11.111	3
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Methyl-4-(methylthio)phenol	33.33333333	3
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Methyl-4-(methylthio)phenol	100	4
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Phenoxybenzenemethanol	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Phenoxybenzenemethanol	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Phenoxybenzenemethanol	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Phenoxybenzenemethanol	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Phenoxybenzenemethanol	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Phenoxybenzenemethanol	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Phenyl-2-propen-1-ol	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Phenyl-2-propen-1-ol	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Phenyl-2-propen-1-ol	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Phenyl-2-propen-1-ol	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Phenyl-2-propen-1-ol	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Phenyl-2-propen-1-ol	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Phenylphenol	0.082304527	4
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Phenylphenol	0.24691358	4
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Phenylphenol	0.740666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Phenylphenol	2.222222222	4
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Phenylphenol	6.666666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	3-Phenylphenol	20	4
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dichlorobenzidine dihydrochloride	0.008230453	4
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dichlorobenzidine dihydrochloride	0.024666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dichlorobenzidine dihydrochloride	0.074	4
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dichlorobenzidine dihydrochloride	0.222222222	4
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dichlorobenzidine dihydrochloride	0.666666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dichlorobenzidine dihydrochloride	2	4
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dimethoxybenzidine	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dimethoxybenzidine	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dimethoxybenzidine	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dimethoxybenzidine	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dimethoxybenzidine	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dimethoxybenzidine	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dimethoxybenzidine dihydrochloride	0.082304527	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dimethoxybenzidine dihydrochloride	0.24691358	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dimethoxybenzidine dihydrochloride	0.740740741	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dimethoxybenzidine dihydrochloride	2.222222222	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dimethoxybenzidine dihydrochloride	6.666666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dimethoxybenzidine dihydrochloride	20	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dimethylbenzidine	0.411111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dimethylbenzidine	1.233333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dimethylbenzidine	3.7	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dimethylbenzidine	11.1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dimethylbenzidine	33.3	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dimethylbenzidine	99.9	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dimethylbenzidine dihydrochloride	0.082304527	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dimethylbenzidine dihydrochloride	0.24691358	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dimethylbenzidine dihydrochloride	0.740740741	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dimethylbenzidine dihydrochloride	2.222222222	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dimethylbenzidine dihydrochloride	6.666666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3'-Dimethylbenzidine dihydrochloride	20	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3',5,5'-Tetrabromobisphenol A	0.041193416	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3',5,5'-Tetrabromobisphenol A	0.123580247	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3',5,5'-Tetrabromobisphenol A	0.370740741	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3',5,5'-Tetrabromobisphenol A	1.112222222	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3',5,5'-Tetrabromobisphenol A	3.336666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,3',5,5'-Tetrabromobisphenol A	10.01	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,4-Diaminotoluene	0.041111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,4-Diaminotoluene	0.123333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,4-Diaminotoluene	0.37	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,4-Diaminotoluene	1.11	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,4-Diaminotoluene	3.33	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,4-Diaminotoluene	9.99	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,4-Dimethylphenol	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,4-Dimethylphenol	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,4-Dimethylphenol	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,4-Dimethylphenol	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,4-Dimethylphenol	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	3,4-Dimethylphenol	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4-(2-Methylbutan-2-yl)phenol	0.411934156	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4-(2-Methylbutan-2-yl)phenol	1.235802469	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4-(2-Methylbutan-2-yl)phenol	3.707407407	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4-(2-Methylbutan-2-yl)phenol	11.12222222	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4-(2-Methylbutan-2-yl)phenol	33.36666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4-(2-Methylbutan-2-yl)phenol	100.1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4-(Diethylamino)benzaldehyde	0.411522634	4
+CEETOX_H295R_ESTRADIOL	Estradiol	4-(Diethylamino)benzaldehyde	1.234567901	4
+CEETOX_H295R_ESTRADIOL	Estradiol	4-(Diethylamino)benzaldehyde	3.703666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	4-(Diethylamino)benzaldehyde	11.111	4
+CEETOX_H295R_ESTRADIOL	Estradiol	4-(Diethylamino)benzaldehyde	33.33333333	4
+CEETOX_H295R_ESTRADIOL	Estradiol	4-(Diethylamino)benzaldehyde	100	4
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Aminoazobenzene	0.411111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Aminoazobenzene	1.233333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Aminoazobenzene	3.7	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Aminoazobenzene	11.1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Aminoazobenzene	33.3	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Aminoazobenzene	99.9	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Butylphenol	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Butylphenol	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Butylphenol	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Butylphenol	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Butylphenol	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Butylphenol	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Chloro-2-methylphenol	0.411666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Chloro-2-methylphenol	1.234666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Chloro-2-methylphenol	3.703666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Chloro-2-methylphenol	11.111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Chloro-2-methylphenol	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Chloro-2-methylphenol	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Iodophenol	0.411522634	4
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Iodophenol	1.234567901	4
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Iodophenol	3.703666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Iodophenol	11.111	4
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Iodophenol	33.33333333	4
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Iodophenol	100	4
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Pentylphenol	0.411522634	4
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Pentylphenol	1.234567901	4
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Pentylphenol	3.703666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Pentylphenol	11.111	4
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Pentylphenol	33.33333333	4
+CEETOX_H295R_ESTRADIOL	Estradiol	4-Pentylphenol	100	4
+CEETOX_H295R_ESTRADIOL	Estradiol	4,4'-Diaminobiphenyl methane	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4,4'-Diaminobiphenyl methane	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4,4'-Diaminobiphenyl methane	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4,4'-Diaminobiphenyl methane	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4,4'-Diaminobiphenyl methane	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4,4'-Diaminobiphenyl methane	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	4'-Acetylbiphenyl	0.411522634	4
+CEETOX_H295R_ESTRADIOL	Estradiol	4'-Acetylbiphenyl	1.234567901	4
+CEETOX_H295R_ESTRADIOL	Estradiol	4'-Acetylbiphenyl	3.703666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	4'-Acetylbiphenyl	11.111	4
+CEETOX_H295R_ESTRADIOL	Estradiol	4'-Acetylbiphenyl	33.33333333	4
+CEETOX_H295R_ESTRADIOL	Estradiol	4'-Acetylbiphenyl	100	4
+CEETOX_H295R_ESTRADIOL	Estradiol	5-(2-Chloro-4-(trifluoromethyl)phenoxy)-2-nitrobenzoic acid	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	5-(2-Chloro-4-(trifluoromethyl)phenoxy)-2-nitrobenzoic acid	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	5-(2-Chloro-4-(trifluoromethyl)phenoxy)-2-nitrobenzoic acid	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	5-(2-Chloro-4-(trifluoromethyl)phenoxy)-2-nitrobenzoic acid	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	5-(2-Chloro-4-(trifluoromethyl)phenoxy)-2-nitrobenzoic acid	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	5-(2-Chloro-4-(trifluoromethyl)phenoxy)-2-nitrobenzoic acid	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	5-Amino-2-methylphenol	0.411111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	5-Amino-2-methylphenol	1.233333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	5-Amino-2-methylphenol	3.7	2
+CEETOX_H295R_ESTRADIOL	Estradiol	5-Amino-2-methylphenol	11.1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	5-Amino-2-methylphenol	33.3	2
+CEETOX_H295R_ESTRADIOL	Estradiol	5-Amino-2-methylphenol	99.9	2
+CEETOX_H295R_ESTRADIOL	Estradiol	6-Methoxy-2-benzothiazolamine	0.411522634	4
+CEETOX_H295R_ESTRADIOL	Estradiol	6-Methoxy-2-benzothiazolamine	1.234567901	4
+CEETOX_H295R_ESTRADIOL	Estradiol	6-Methoxy-2-benzothiazolamine	3.703666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	6-Methoxy-2-benzothiazolamine	11.111	4
+CEETOX_H295R_ESTRADIOL	Estradiol	6-Methoxy-2-benzothiazolamine	33.33333333	4
+CEETOX_H295R_ESTRADIOL	Estradiol	6-Methoxy-2-benzothiazolamine	100	4
+CEETOX_H295R_ESTRADIOL	Estradiol	7,12-Dimethylbenz(a)anthracene	0.020576132	2
+CEETOX_H295R_ESTRADIOL	Estradiol	7,12-Dimethylbenz(a)anthracene	0.061728395	2
+CEETOX_H295R_ESTRADIOL	Estradiol	7,12-Dimethylbenz(a)anthracene	0.185185185	2
+CEETOX_H295R_ESTRADIOL	Estradiol	7,12-Dimethylbenz(a)anthracene	0.555555556	2
+CEETOX_H295R_ESTRADIOL	Estradiol	7,12-Dimethylbenz(a)anthracene	1.666666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	7,12-Dimethylbenz(a)anthracene	5	2
+CEETOX_H295R_ESTRADIOL	Estradiol	7,4'-Dihydroxyisoflavone	0.411934156	2
+CEETOX_H295R_ESTRADIOL	Estradiol	7,4'-Dihydroxyisoflavone	1.235802469	2
+CEETOX_H295R_ESTRADIOL	Estradiol	7,4'-Dihydroxyisoflavone	3.707407407	2
+CEETOX_H295R_ESTRADIOL	Estradiol	7,4'-Dihydroxyisoflavone	11.12222222	2
+CEETOX_H295R_ESTRADIOL	Estradiol	7,4'-Dihydroxyisoflavone	33.36666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	7,4'-Dihydroxyisoflavone	100.1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Acibenzolar-S-methyl	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Acibenzolar-S-methyl	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Acibenzolar-S-methyl	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Acibenzolar-S-methyl	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Acibenzolar-S-methyl	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Acibenzolar-S-methyl	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Ametryn	0.411522634	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Ametryn	1.234567901	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Ametryn	3.703703704	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Ametryn	11.11111111	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Ametryn	33.33333333	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Ametryn	100	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Anilazine	0.041152263	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Anilazine	0.12345679	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Anilazine	0.37037037	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Anilazine	1.111111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Anilazine	3.333333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Anilazine	10	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Atrazine	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Atrazine	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Atrazine	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Atrazine	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Atrazine	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Atrazine	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Azinphos-ethyl	0.082304527	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Azinphos-ethyl	0.24691358	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Azinphos-ethyl	0.740666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Azinphos-ethyl	2.222222222	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Azinphos-ethyl	6.666666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Azinphos-ethyl	20	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Azobenzene	0.411111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Azobenzene	1.233333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Azobenzene	3.7	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Azobenzene	11.1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Azobenzene	33.3	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Azobenzene	99.9	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Bendiocarb	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Bendiocarb	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Bendiocarb	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Bendiocarb	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Bendiocarb	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Bendiocarb	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Benz(a)anthracene	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Benz(a)anthracene	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Benz(a)anthracene	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Benz(a)anthracene	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Benz(a)anthracene	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Benz(a)anthracene	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Benzidine	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Benzidine	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Benzidine	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Benzidine	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Benzidine	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Benzidine	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Bisphenol A	0.041152263	8
+CEETOX_H295R_ESTRADIOL	Estradiol	Bisphenol A	0.12345679	8
+CEETOX_H295R_ESTRADIOL	Estradiol	Bisphenol A	0.37037037	8
+CEETOX_H295R_ESTRADIOL	Estradiol	Bisphenol A	1.111111111	8
+CEETOX_H295R_ESTRADIOL	Estradiol	Bisphenol A	3.333333333	7
+CEETOX_H295R_ESTRADIOL	Estradiol	Bisphenol A	10	8
+CEETOX_H295R_ESTRADIOL	Estradiol	C.I. Disperse Yellow 3	0.205666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	C.I. Disperse Yellow 3	0.617283951	4
+CEETOX_H295R_ESTRADIOL	Estradiol	C.I. Disperse Yellow 3	1.851851852	4
+CEETOX_H295R_ESTRADIOL	Estradiol	C.I. Disperse Yellow 3	5.555555556	4
+CEETOX_H295R_ESTRADIOL	Estradiol	C.I. Disperse Yellow 3	16.66666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	C.I. Disperse Yellow 3	50	4
+CEETOX_H295R_ESTRADIOL	Estradiol	C.I. Solvent Yellow 14	0.205761317	2
+CEETOX_H295R_ESTRADIOL	Estradiol	C.I. Solvent Yellow 14	0.617283951	2
+CEETOX_H295R_ESTRADIOL	Estradiol	C.I. Solvent Yellow 14	1.851851852	2
+CEETOX_H295R_ESTRADIOL	Estradiol	C.I. Solvent Yellow 14	5.555555556	2
+CEETOX_H295R_ESTRADIOL	Estradiol	C.I. Solvent Yellow 14	16.66666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	C.I. Solvent Yellow 14	50	2
+CEETOX_H295R_ESTRADIOL	Estradiol	C.I. Solvent Yellow 56	0.082304527	4
+CEETOX_H295R_ESTRADIOL	Estradiol	C.I. Solvent Yellow 56	0.24691358	4
+CEETOX_H295R_ESTRADIOL	Estradiol	C.I. Solvent Yellow 56	0.740666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	C.I. Solvent Yellow 56	2.222222222	4
+CEETOX_H295R_ESTRADIOL	Estradiol	C.I. Solvent Yellow 56	6.666666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	C.I. Solvent Yellow 56	20	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Carbaryl	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Carbaryl	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Carbaryl	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Carbaryl	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Carbaryl	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Carbaryl	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Carboxin	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Carboxin	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Carboxin	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Carboxin	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Carboxin	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Carboxin	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Carfentrazone-ethyl	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Carfentrazone-ethyl	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Carfentrazone-ethyl	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Carfentrazone-ethyl	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Carfentrazone-ethyl	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Carfentrazone-ethyl	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Chlorpropham	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Chlorpropham	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Chlorpropham	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Chlorpropham	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Chlorpropham	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Chlorpropham	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Chlorpyrifos-methyl	0.041152263	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Chlorpyrifos-methyl	0.12345679	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Chlorpyrifos-methyl	0.37037037	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Chlorpyrifos-methyl	1.111111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Chlorpyrifos-methyl	3.333333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Chlorpyrifos-methyl	10	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Chlorthal-dimethyl	0.411934156	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Chlorthal-dimethyl	1.235802469	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Chlorthal-dimethyl	3.707407407	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Chlorthal-dimethyl	11.12222222	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Chlorthal-dimethyl	33.36666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Chlorthal-dimethyl	100.1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CI-1018	0.411111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CI-1018	1.233333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CI-1018	3.7	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CI-1018	11.1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CI-1018	33.3	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CI-1018	99.9	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CI-1044	0.411934156	4
+CEETOX_H295R_ESTRADIOL	Estradiol	CI-1044	1.235666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	CI-1044	3.707333333	4
+CEETOX_H295R_ESTRADIOL	Estradiol	CI-1044	11.12222222	4
+CEETOX_H295R_ESTRADIOL	Estradiol	CI-1044	33.36666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	CI-1044	100.1	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Cinmethylin	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cinmethylin	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cinmethylin	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cinmethylin	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cinmethylin	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cinmethylin	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CJ-013790	0.041	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CJ-013790	0.123333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CJ-013790	0.37	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CJ-013790	1.11	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CJ-013790	3.33	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CJ-013790	9.99	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cladribine	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cladribine	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cladribine	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cladribine	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cladribine	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cladribine	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Clodinafop-propargyl	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Clodinafop-propargyl	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Clodinafop-propargyl	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Clodinafop-propargyl	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Clodinafop-propargyl	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Clodinafop-propargyl	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Clomazone	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Clomazone	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Clomazone	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Clomazone	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Clomazone	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Clomazone	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Clove leaf oil	0.205761317	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Clove leaf oil	0.617283951	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Clove leaf oil	1.851851852	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Clove leaf oil	5.555555556	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Clove leaf oil	16.66666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Clove leaf oil	50	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Colforsin	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Colforsin	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Colforsin	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Colforsin	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Colforsin	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Colforsin	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Coumaphos	0.041152263	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Coumaphos	0.12345679	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Coumaphos	0.37037037	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Coumaphos	1.111111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Coumaphos	3.333333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Coumaphos	10	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-283097	0.041152263	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-283097	0.12345679	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-283097	0.37037037	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-283097	1.111111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-283097	3.333333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-283097	10	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-401387	0.041152263	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-401387	0.12345679	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-401387	0.37037037	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-401387	1.111111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-401387	3.333333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-401387	10	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-456773	0.411934156	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-456773	1.235802469	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-456773	3.707407407	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-456773	11.12222222	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-456773	33.36666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-456773	100.1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-457677	0.411522634	3
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-457677	1.234567901	4
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-457677	3.703666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-457677	11.111	4
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-457677	33.33333333	4
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-457677	100	4
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-457920	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-457920	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-457920	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-457920	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-457920	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-457920	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-671305	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-671305	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-671305	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-671305	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-671305	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	CP-671305	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cybutryne	0.411666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cybutryne	1.234666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cybutryne	3.703666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cybutryne	11.111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cybutryne	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cybutryne	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cycloate	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cycloate	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cycloate	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cycloate	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cycloate	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cycloate	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cyfluthrin	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cyfluthrin	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cyfluthrin	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cyfluthrin	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cyfluthrin	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cyfluthrin	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cyproconazole	0.041152263	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cyproconazole	0.12345679	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cyproconazole	0.37037037	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cyproconazole	1.111111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cyproconazole	3.333333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Cyproconazole	10	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Deethylatrazine	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Deethylatrazine	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Deethylatrazine	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Deethylatrazine	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Deethylatrazine	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Deethylatrazine	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Deisopropylatrazine	0.411522634	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Deisopropylatrazine	1.234567901	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Deisopropylatrazine	3.703703704	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Deisopropylatrazine	11.11111111	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Deisopropylatrazine	33.33333333	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Deisopropylatrazine	100	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Diazinon	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Diazinon	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Diazinon	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Diazinon	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Diazinon	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Diazinon	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Dicyclohexylamine	0.205761317	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Dicyclohexylamine	0.617283951	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Dicyclohexylamine	1.851851852	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Dicyclohexylamine	5.555555556	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Dicyclohexylamine	16.66666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Dicyclohexylamine	50	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Difenoconazole	0.004115226	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Difenoconazole	0.012345679	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Difenoconazole	0.037037037	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Difenoconazole	0.111111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Difenoconazole	0.333333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Difenoconazole	1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Difpas-pyrazole	0.082304527	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Difpas-pyrazole	0.24691358	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Difpas-pyrazole	0.740740741	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Difpas-pyrazole	2.222222222	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Difpas-pyrazole	6.666666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Difpas-pyrazole	20	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Dimethomorph	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Dimethomorph	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Dimethomorph	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Dimethomorph	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Dimethomorph	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Dimethomorph	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Diphenyl isophthalate	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Diphenyl isophthalate	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Diphenyl isophthalate	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Diphenyl isophthalate	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Diphenyl isophthalate	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Diphenyl isophthalate	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Diphenylamine	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Diphenylamine	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Diphenylamine	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Diphenylamine	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Diphenylamine	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Diphenylamine	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Endosulfan sulfate	0.082304527	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Endosulfan sulfate	0.24691358	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Endosulfan sulfate	0.740740741	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Endosulfan sulfate	2.222222222	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Endosulfan sulfate	6.666666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Endosulfan sulfate	20	2
+CEETOX_H295R_ESTRADIOL	Estradiol	EPN	0.041152263	2
+CEETOX_H295R_ESTRADIOL	Estradiol	EPN	0.12345679	2
+CEETOX_H295R_ESTRADIOL	Estradiol	EPN	0.37037037	2
+CEETOX_H295R_ESTRADIOL	Estradiol	EPN	1.111111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	EPN	3.333333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	EPN	10	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Equilin	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Equilin	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Equilin	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Equilin	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Equilin	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Equilin	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Estriol	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Estriol	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Estriol	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Estriol	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Estriol	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Estriol	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Estrone	0.411	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Estrone	1.233333333	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Estrone	3.7	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Estrone	11.1	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Estrone	33.3	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Estrone	99.9	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Ethion	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Ethion	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Ethion	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Ethion	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Ethion	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Ethion	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Ethoprop	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Ethoprop	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Ethoprop	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Ethoprop	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Ethoprop	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Ethoprop	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Ethylparaben	0.411111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Ethylparaben	1.233333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Ethylparaben	3.7	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Ethylparaben	11.1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Ethylparaben	33.3	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Ethylparaben	99.9	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Fenitrothion	0.041152263	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Fenitrothion	0.12345679	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Fenitrothion	0.37037037	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Fenitrothion	1.111111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Fenitrothion	3.333333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Fenitrothion	10	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Fenthion	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Fenthion	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Fenthion	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Fenthion	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Fenthion	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Fenthion	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Fluoranthene	0.411934156	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Fluoranthene	1.235802469	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Fluoranthene	3.707407407	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Fluoranthene	11.12222222	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Fluoranthene	33.36666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Fluoranthene	100.1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Formetanate hydrochloride	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Formetanate hydrochloride	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Formetanate hydrochloride	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Formetanate hydrochloride	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Formetanate hydrochloride	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Formetanate hydrochloride	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	GSK163929B	0.082304527	2
+CEETOX_H295R_ESTRADIOL	Estradiol	GSK163929B	0.24691358	2
+CEETOX_H295R_ESTRADIOL	Estradiol	GSK163929B	0.740740741	2
+CEETOX_H295R_ESTRADIOL	Estradiol	GSK163929B	2.222222222	2
+CEETOX_H295R_ESTRADIOL	Estradiol	GSK163929B	6.666666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	GSK163929B	20	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Hexythiazox	0.004115226	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Hexythiazox	0.012345679	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Hexythiazox	0.037037037	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Hexythiazox	0.111111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Hexythiazox	0.333333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Hexythiazox	1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Hydroquinone	0.041193416	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Hydroquinone	0.123580247	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Hydroquinone	0.370740741	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Hydroquinone	1.112222222	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Hydroquinone	3.336666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Hydroquinone	10.01	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Indan-5-ol	0.411522634	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Indan-5-ol	1.234567901	3
+CEETOX_H295R_ESTRADIOL	Estradiol	Indan-5-ol	3.703666667	3
+CEETOX_H295R_ESTRADIOL	Estradiol	Indan-5-ol	11.111	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Indan-5-ol	33.33333333	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Indan-5-ol	100	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Isazofos	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Isazofos	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Isazofos	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Isazofos	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Isazofos	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Isazofos	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Isoeugenol	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Isoeugenol	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Isoeugenol	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Isoeugenol	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Isoeugenol	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Isoeugenol	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Lactofen	0.041152263	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Lactofen	0.12345679	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Lactofen	0.37037037	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Lactofen	1.111111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Lactofen	3.333333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Lactofen	10	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Malathion	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Malathion	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Malathion	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Malathion	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Malathion	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Malathion	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Mepanipyrim	0.411111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Mepanipyrim	1.233333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Mepanipyrim	3.7	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Mepanipyrim	11.1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Mepanipyrim	33.3	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Mepanipyrim	99.9	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Methiocarb	0.411522634	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Methiocarb	1.234567901	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Methiocarb	3.703666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Methiocarb	11.111	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Methiocarb	33.33333333	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Methiocarb	100	4
+CEETOX_H295R_ESTRADIOL	Estradiol	Methyl 3-methylorsellinate	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Methyl 3-methylorsellinate	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Methyl 3-methylorsellinate	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Methyl 3-methylorsellinate	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Methyl 3-methylorsellinate	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Methyl 3-methylorsellinate	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Methyl parathion	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Methyl parathion	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Methyl parathion	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Methyl parathion	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Methyl parathion	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Methyl parathion	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Methylparaben	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Methylparaben	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Methylparaben	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Methylparaben	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Methylparaben	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Methylparaben	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	MK-968	0.041152263	2
+CEETOX_H295R_ESTRADIOL	Estradiol	MK-968	0.12345679	2
+CEETOX_H295R_ESTRADIOL	Estradiol	MK-968	0.37037037	2
+CEETOX_H295R_ESTRADIOL	Estradiol	MK-968	1.111111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	MK-968	3.333333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	MK-968	10	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Molinate	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Molinate	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Molinate	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Molinate	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Molinate	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Molinate	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	N-Benzyladenine	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	N-Benzyladenine	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	N-Benzyladenine	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	N-Benzyladenine	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	N-Benzyladenine	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	N-Benzyladenine	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	N-Phenyl-2-naphthylamine	0.082304527	4
+CEETOX_H295R_ESTRADIOL	Estradiol	N-Phenyl-2-naphthylamine	0.24691358	4
+CEETOX_H295R_ESTRADIOL	Estradiol	N-Phenyl-2-naphthylamine	0.740666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	N-Phenyl-2-naphthylamine	2.222222222	4
+CEETOX_H295R_ESTRADIOL	Estradiol	N-Phenyl-2-naphthylamine	6.666666667	4
+CEETOX_H295R_ESTRADIOL	Estradiol	N-Phenyl-2-naphthylamine	20	4
+CEETOX_H295R_ESTRADIOL	Estradiol	N,N-Dimethyloctylamine	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	N,N-Dimethyloctylamine	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	N,N-Dimethyloctylamine	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	N,N-Dimethyloctylamine	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	N,N-Dimethyloctylamine	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	N,N-Dimethyloctylamine	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Nitrilotriacetic acid	0.411934156	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Nitrilotriacetic acid	1.235802469	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Nitrilotriacetic acid	3.707407407	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Nitrilotriacetic acid	11.12222222	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Nitrilotriacetic acid	33.36666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Nitrilotriacetic acid	100.1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Nonanoic acid	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Nonanoic acid	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Nonanoic acid	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Nonanoic acid	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Nonanoic acid	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Nonanoic acid	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Norflurazon	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Norflurazon	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Norflurazon	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Norflurazon	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Norflurazon	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Norflurazon	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	o-Aminoazotoluene	0.020576132	2
+CEETOX_H295R_ESTRADIOL	Estradiol	o-Aminoazotoluene	0.061728395	2
+CEETOX_H295R_ESTRADIOL	Estradiol	o-Aminoazotoluene	0.185185185	2
+CEETOX_H295R_ESTRADIOL	Estradiol	o-Aminoazotoluene	0.555555556	2
+CEETOX_H295R_ESTRADIOL	Estradiol	o-Aminoazotoluene	1.666666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	o-Aminoazotoluene	5	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Oxyfluorfen	0.041152263	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Oxyfluorfen	0.12345679	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Oxyfluorfen	0.37037037	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Oxyfluorfen	1.111111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Oxyfluorfen	3.333333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Oxyfluorfen	10	2
+CEETOX_H295R_ESTRADIOL	Estradiol	p-Cresol	0.411111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	p-Cresol	1.233333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	p-Cresol	3.7	2
+CEETOX_H295R_ESTRADIOL	Estradiol	p-Cresol	11.1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	p-Cresol	33.3	2
+CEETOX_H295R_ESTRADIOL	Estradiol	p-Cresol	99.9	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Paclobutrazol	0.041152263	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Paclobutrazol	0.12345679	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Paclobutrazol	0.37037037	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Paclobutrazol	1.111111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Paclobutrazol	3.333333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Paclobutrazol	10	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Parathion	0.041152263	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Parathion	0.12345679	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Parathion	0.37037037	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Parathion	1.111111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Parathion	3.333333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Parathion	10	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Permethrin	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Permethrin	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Permethrin	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Permethrin	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Permethrin	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Permethrin	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	PharmaGSID_47263	0.411111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	PharmaGSID_47263	1.233333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	PharmaGSID_47263	3.7	2
+CEETOX_H295R_ESTRADIOL	Estradiol	PharmaGSID_47263	11.1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	PharmaGSID_47263	33.3	2
+CEETOX_H295R_ESTRADIOL	Estradiol	PharmaGSID_47263	99.9	2
+CEETOX_H295R_ESTRADIOL	Estradiol	PharmaGSID_48510	0.082304527	2
+CEETOX_H295R_ESTRADIOL	Estradiol	PharmaGSID_48510	0.24691358	2
+CEETOX_H295R_ESTRADIOL	Estradiol	PharmaGSID_48510	0.740740741	2
+CEETOX_H295R_ESTRADIOL	Estradiol	PharmaGSID_48510	2.222222222	2
+CEETOX_H295R_ESTRADIOL	Estradiol	PharmaGSID_48510	6.666666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	PharmaGSID_48510	20	2
+CEETOX_H295R_ESTRADIOL	Estradiol	PharmaGSID_48519	0.008230453	2
+CEETOX_H295R_ESTRADIOL	Estradiol	PharmaGSID_48519	0.024691358	2
+CEETOX_H295R_ESTRADIOL	Estradiol	PharmaGSID_48519	0.074074074	2
+CEETOX_H295R_ESTRADIOL	Estradiol	PharmaGSID_48519	0.222222222	2
+CEETOX_H295R_ESTRADIOL	Estradiol	PharmaGSID_48519	0.666666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	PharmaGSID_48519	2	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Phenothiazine	0.205761317	6
+CEETOX_H295R_ESTRADIOL	Estradiol	Phenothiazine	0.617283951	6
+CEETOX_H295R_ESTRADIOL	Estradiol	Phenothiazine	1.851851852	6
+CEETOX_H295R_ESTRADIOL	Estradiol	Phenothiazine	5.555555556	6
+CEETOX_H295R_ESTRADIOL	Estradiol	Phenothiazine	16.66666667	6
+CEETOX_H295R_ESTRADIOL	Estradiol	Phenothiazine	50	6
+CEETOX_H295R_ESTRADIOL	Estradiol	Piperonyl butoxide	0.041152263	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Piperonyl butoxide	0.12345679	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Piperonyl butoxide	0.37037037	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Piperonyl butoxide	1.111111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Piperonyl butoxide	3.333333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Piperonyl butoxide	10	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Pirimiphos-methyl	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Pirimiphos-methyl	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Pirimiphos-methyl	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Pirimiphos-methyl	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Pirimiphos-methyl	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Pirimiphos-methyl	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Prallethrin	0.004115226	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Prallethrin	0.012345679	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Prallethrin	0.037037037	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Prallethrin	0.111111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Prallethrin	0.333333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Prallethrin	1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Procymidone	0.411111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Procymidone	1.233333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Procymidone	3.7	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Procymidone	11.1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Procymidone	33.3	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Procymidone	99.9	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Profenofos	0.041152263	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Profenofos	0.12345679	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Profenofos	0.37037037	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Profenofos	1.111111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Profenofos	3.333333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Profenofos	10	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Progesterone	0.041152263	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Progesterone	0.12345679	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Progesterone	0.37037037	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Progesterone	1.111111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Progesterone	3.333333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Progesterone	10	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Prometon	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Prometon	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Prometon	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Prometon	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Prometon	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Prometon	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Prometryn	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Prometryn	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Prometryn	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Prometryn	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Prometryn	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Prometryn	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Propyzamide	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Propyzamide	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Propyzamide	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Propyzamide	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Propyzamide	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Propyzamide	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Pyraflufen-ethyl	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Pyraflufen-ethyl	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Pyraflufen-ethyl	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Pyraflufen-ethyl	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Pyraflufen-ethyl	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Pyraflufen-ethyl	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Pyrene	0.411111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Pyrene	1.233333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Pyrene	3.7	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Pyrene	11.1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Pyrene	33.3	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Pyrene	99.9	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Pyriproxyfen	0.041152263	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Pyriproxyfen	0.12345679	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Pyriproxyfen	0.37037037	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Pyriproxyfen	1.111111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Pyriproxyfen	3.333333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Pyriproxyfen	10	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Sethoxydim	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Sethoxydim	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Sethoxydim	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Sethoxydim	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Sethoxydim	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Sethoxydim	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Simazine	0.205761317	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Simazine	0.617283951	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Simazine	1.851851852	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Simazine	5.555555556	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Simazine	16.66666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Simazine	50	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Simvastatin	0.041193416	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Simvastatin	0.123580247	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Simvastatin	0.370740741	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Simvastatin	1.112222222	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Simvastatin	3.336666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Simvastatin	10.01	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Sodium 2-phenylphenate tetrahydrate	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Sodium 2-phenylphenate tetrahydrate	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Sodium 2-phenylphenate tetrahydrate	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Sodium 2-phenylphenate tetrahydrate	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Sodium 2-phenylphenate tetrahydrate	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Sodium 2-phenylphenate tetrahydrate	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Spirodiclofen	0.082304527	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Spirodiclofen	0.24691358	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Spirodiclofen	0.740740741	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Spirodiclofen	2.222222222	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Spirodiclofen	6.666666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Spirodiclofen	20	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Spiroxamine	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Spiroxamine	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Spiroxamine	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Spiroxamine	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Spiroxamine	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Spiroxamine	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Tefluthrin	0.041152263	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Tefluthrin	0.12345679	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Tefluthrin	0.37037037	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Tefluthrin	1.111111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Tefluthrin	3.333333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Tefluthrin	10	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Terbutylazine	0.411934156	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Terbutylazine	1.235802469	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Terbutylazine	3.707407407	1
+CEETOX_H295R_ESTRADIOL	Estradiol	Terbutylazine	11.12222222	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Terbutylazine	33.36666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Terbutylazine	100.1	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Testosterone propionate	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Testosterone propionate	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Testosterone propionate	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Testosterone propionate	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Testosterone propionate	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Testosterone propionate	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Trelanserin	0.205761317	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Trelanserin	0.617283951	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Trelanserin	1.851851852	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Trelanserin	5.555555556	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Trelanserin	16.66666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Trelanserin	50	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Triamcinolone	0.205761317	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Triamcinolone	0.617283951	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Triamcinolone	1.851851852	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Triamcinolone	5.555555556	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Triamcinolone	16.66666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Triamcinolone	50	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Tridemorph	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Tridemorph	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Tridemorph	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Tridemorph	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Tridemorph	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Tridemorph	100	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Triphenyl phosphate	0.041193416	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Triphenyl phosphate	0.123580247	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Triphenyl phosphate	0.370740741	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Triphenyl phosphate	1.112222222	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Triphenyl phosphate	3.336666667	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Triphenyl phosphate	10.01	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Triticonazole	0.041152263	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Triticonazole	0.12345679	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Triticonazole	0.37037037	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Triticonazole	1.111111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Triticonazole	3.333333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Triticonazole	10	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Zenarestat	0.411522634	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Zenarestat	1.234567901	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Zenarestat	3.703703704	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Zenarestat	11.11111111	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Zenarestat	33.33333333	2
+CEETOX_H295R_ESTRADIOL	Estradiol	Zenarestat	100	2
